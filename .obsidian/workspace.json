@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ac26d6e6f00122e4",
+        "id": "99392310793fbcd7",
         "type": "tabs",
         "children": [
           {
-            "id": "90bc153207a1a0fc",
+            "id": "8da95419266bae64",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CPTS/1.Getting Started/Basic Prev Esc/PrevEsc.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "PrevEsc"
             }
           }
         ]
@@ -164,8 +168,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f63fe6e77f2010a0",
+  "active": "8da95419266bae64",
   "lastOpenFiles": [
+    "Exploiting AD/1.Basics of AD/Untitled.md",
+    "CPTS/1.Getting Started/Basic Prev Esc/PrevEsc.md",
+    "CPTS/1.Getting Started/Basic Prev Esc",
+    "Payloads/Untitled.md",
+    "Payloads/WebShell.md",
+    "attachments/write_shell_exec_1.webp",
+    "attachments/Pasted image 20250320072023.png",
+    "Usefull Commands/Upgrading TTY.md",
+    "Payloads/Shells.md",
+    "Usefull Commands",
+    "Exploiting AD/0.Components OF AD/Untitled.md",
+    "CPTS/Tips.md",
+    "CPTS/1.Getting Started/common-ports.pdf",
+    "CPTS/1.Getting Started/All Commands.md",
+    "CPTS/1.Getting Started/Basic Enumeration/0.Basic Enum.md",
+    "CPTS/1.Getting Started/Basic Enumeration/1.Basic Web Enum.md",
+    "Payloads/Bash.md",
+    "Payloads/Powershell.md",
+    "Payloads",
+    "CPTS/1.Getting Started/Basic Enumeration",
+    "CPTS/1.Getting Started/common-ports.pdf.crdownload",
+    "CPTS/1.Getting Started",
     "CPTS",
     "Exploiting AD/1.Basics of AD/Kerberos and NetNTLMAuth.md",
     "attachments/Pasted image 20250317045701.png",
@@ -178,16 +204,11 @@
     "attachments/Pasted image 20250317044338.png",
     "Exploiting AD/1.Basics of AD",
     "attachments/Pasted image 20250317044306.png",
-    "Exploiting AD/0.Components OF AD/Untitled.md",
     "attachments/Pasted image 20250317015521.png",
-    "attachments/Pasted image 20250317015416.png",
-    "attachments/Pasted image 20250317015342.png",
     "Exploiting AD/0.Components OF AD/1.Physical Components..md",
     "attachments",
     "Exploiting AD/Untitled.md",
-    "Exploiting AD/0.Components OF AD",
     "create a link.md",
-    "Exploiting AD",
     "Welcome.md"
   ]
 }
