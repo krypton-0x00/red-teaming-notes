@@ -1,5 +1,5 @@
 ```shell
-python -c 'import pty; pty.spawn("/bin/bash")'
+python3 -c 'import pty; pty.spawn("/bin/bash")'
 ```
 
 After we run this command, we will hit `ctrl+z` to background our shell and get back on our local terminal, and input the following `stty` command:
