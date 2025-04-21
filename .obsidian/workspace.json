@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPTS/2.Network Scanning with Nmap/2.Host And Port Scanning.md",
+                "file": "CPTS/2.Network Scanning with Nmap/4. Service Enum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.Host And Port Scanning"
+              "title": "4. Service Enum"
             }
           }
         ]
@@ -171,8 +171,12 @@
   },
   "active": "2ce41585b34a79f0",
   "lastOpenFiles": [
+    "CPTS/2.Network Scanning with Nmap/3.Saving the result.md",
+    "CPTS/2.Network Scanning with Nmap/4. Service Enum.md",
+    "attachments/Pasted image 20250421145017.png",
     "CPTS/2.Network Scanning with Nmap/1.Host Discovery.md",
     "CPTS/2.Network Scanning with Nmap/2.Host And Port Scanning.md",
+    "CPTS/1.Getting Started/Footprinting/2.Web Footprinting.md",
     "CPTS/2.Network Scanning with Nmap/0.Basics.md",
     "CPTS/1.Getting Started/File Transfers/Basic.md",
     "CPTS/2.Network Scanning with Nmap",
@@ -181,7 +185,6 @@
     "CPTS/Labs/0.Nibbles.md",
     "CPTS/1.Getting Started/Footprinting/1.Nmap.md",
     "CPTS/Labs",
-    "CPTS/1.Getting Started/Footprinting/2.Web Footprinting.md",
     "CPTS/1.Getting Started/common-ports.pdf",
     "CPTS/1.Getting Started/Footprinting",
     "CPTS/1.Getting Started/File Transfers",
@@ -213,9 +216,6 @@
     "attachments/Pasted image 20250317044413.png",
     "attachments/Pasted image 20250317044338.png",
     "attachments/Pasted image 20250317044306.png",
-    "attachments/Pasted image 20250317015521.png",
-    "Exploiting AD/0.Components OF AD/1.Physical Components..md",
-    "Exploiting AD/Untitled.md",
-    "create a link.md"
+    "Exploiting AD/0.Components OF AD/1.Physical Components..md"
   ]
 }
