@@ -31,7 +31,5 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  },
-  "CPTS/3.Footprinting": "LiFingerprint",
-  "Exploiting AD": "LiActivitySquare"
+  }
 }

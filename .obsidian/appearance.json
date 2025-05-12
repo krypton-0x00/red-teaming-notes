@@ -1,5 +1,8 @@
 {
-  "cssTheme": "GitHub Theme",
+  "cssTheme": "mono black (monochrome, charcoal)",
   "theme": "obsidian",
-  "baseFontSize": 23
+  "baseFontSize": 16,
+  "nativeMenus": false,
+  "showRibbon": false,
+  "showViewHeader": true
 }

@@ -24,24 +24,8 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Usefull Commands/SED.md",
-      "timestamp": 1746279616433
-    },
-    {
-      "filepath": "Usefull Commands/FeroxBuster.md",
-      "timestamp": 1746279385921
-    },
-    {
-      "filepath": "CPTS/2.Network Scanning with Nmap/7.Firewall and IDS&IPS Evasion.md",
-      "timestamp": 1746278547426
-    },
-    {
-      "filepath": "CPTS/2.Network Scanning with Nmap/8. Firewalls Summery.md",
-      "timestamp": 1746278543176
-    },
-    {
-      "filepath": "CPTS/3.Footprinting/2.FTP.md",
-      "timestamp": 1746278167323
+      "filepath": "CPTS/4.Web Info Gathering/12. Automating Recon.md",
+      "timestamp": 1747010441863
     }
   ],
   "bookmarkedFileStore": [],

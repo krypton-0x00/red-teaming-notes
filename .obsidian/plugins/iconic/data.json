@@ -21,20 +21,7 @@
   },
   "appIcons": {},
   "tabIcons": {},
-  "fileIcons": {
-    "CPTS": {
-      "icon": "lucide-stretch-vertical",
-      "unsynced": [
-        "f4f265343a7a469b"
-      ]
-    },
-    "CPTS/Labs": {
-      "icon": "lucide-gitlab",
-      "unsynced": [
-        "f4f265343a7a469b"
-      ]
-    }
-  },
+  "fileIcons": {},
   "bookmarkIcons": {},
   "tagIcons": {},
   "propertyIcons": {},
