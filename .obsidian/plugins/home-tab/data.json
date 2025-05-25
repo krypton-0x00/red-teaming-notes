@@ -24,8 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "CPTS/4.Web Info Gathering/12. Automating Recon.md",
-      "timestamp": 1747010441863
+      "filepath": "CPTS/7.Shells And Payloads/Untitled.md",
+      "timestamp": 1747992394034
+    },
+    {
+      "filepath": "CPTS/7.Shells And Payloads/BindShells.md",
+      "timestamp": 1747991984487
+    },
+    {
+      "filepath": "CPTS/6.File Transfers/Evading detection.md",
+      "timestamp": 1747991969000
     }
   ],
   "bookmarkedFileStore": [],
