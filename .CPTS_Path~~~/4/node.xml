@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node unique_id="4" master_id="0" name="AD Basics Theory" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1750469985" ts_lastsave="1750655227">
+    <rich_text foreground="#3584e4">TRUST</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text family="monospace" foreground="#c01c28" weight="heavy">NOTE:</rich_text>
+    <rich_text family="monospace"> The child domains in forest A do not necessarily have trusts established with the child domains in forest B. This means that a user that is part of admin.dev.freightlogistics.local would NOT be able to authenticate to machines in the wh.corp.inlanefreight.local domain by default even though a bidirectional trust exists between the top-level inlanefreight.local and freightlogistics.local domains. To allow direct communication from admin.dev.freightlogistics.local and wh.corp.inlanefreight.local, another trust would need to be set up.</rich_text>
+    <rich_text>
+
+
+
+</rich_text>
+    <rich_text scale="h2" foreground="#3584e4">NTHash (NTLM)</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+- Stronger But can be Bruteforced.
+- Vulnerable to the pass-the-hash attack
+
+</rich_text>
+    <rich_text weight="heavy">Hash Example</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text family="monospace">Rachel:500:aad3c435b514a4eeaad3b935b51304fe:e46b9e548fa0d122de7f59fb6d48eaa2:::</rich_text>
+    <rich_text>
+
+	</rich_text>
+    <rich_text weight="heavy">Rachel</rich_text>
+    <rich_text> is the username
+	</rich_text>
+    <rich_text weight="heavy">500</rich_text>
+    <rich_text> is the Relative Identifier (RID). 500 is the known RID for the administrator account
+	</rich_text>
+    <rich_text weight="heavy">aad3c435b514a4eeaad3b935b51304fe</rich_text>
+    <rich_text> is the LM hash and, if LM hashes are disabled on the system, can not be used for anything
+	</rich_text>
+    <rich_text weight="heavy">e46b9e548fa0d122de7f59fb6d48eaa2</rich_text>
+    <rich_text> is the NT hash. This hash can either be cracked offline to reveal the cleartext value (depending on the length/strength of the password) or used for a pass-the-hash attack. 
+
+
+- Passing The Hash attack (Example)
+   → crackmapexec smb 10.129.41.19 -u rachel -H e46b9e548fa0d122de7f59fb6d48eaa2
+
+
+</rich_text>
+    <rich_text scale="h2" foreground="#3584e4">NTLMv1</rich_text>
+    <rich_text scale="h2"> </rich_text>
+    <rich_text>
+
+- </rich_text>
+    <rich_text justification="left" scale="h3" foreground="#a4b1cd">The server sends the client an 8-byte random number (challenge), and the client returns a 24-byte response.</rich_text>
+    <rich_text>
+- </rich_text>
+    <rich_text justification="left" scale="h3" foreground="#a4b1cd">These hashes can NOT be used for pass-the-hash attacks.</rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text weight="heavy">HASH EXAMPLE </rich_text>
+    <rich_text>
+
+	u4-netntlm::kNS:338d08f8e26de93300000000000000000000000000000000:9526fb8c23a90751cdd619b6cea564742e1e4bf33006ba41:cb8086049ec4736c
+
+
+
+
+</rich_text>
+    <rich_text scale="h2" foreground="#3584e4">NTLMv2 (Net-NTLMv2)</rich_text>
+    <rich_text>
+
+- NTLMv2 sends two responses to the 8-byte challenge received by the server. These responses contain a 16-byte HMAC-MD5 hash of the challenge, a randomly generated challenge from the client, and an HMAC-MD5 hash of the user's credentials. A second response is sent, using a variable-length client challenge including the current time, an 8-byte random value, and the domain name.
+
+</rich_text>
+    <rich_text weight="heavy">HASH EXAMPLE:</rich_text>
+    <rich_text>
+	admin::N46iSNekpT:08ca45b7d7ea58ee:88dcbe4446168966a153a0064958dac6:5c7830315c7830310000000000000b45c67103d07d7b95acd12ffa11230e0000000052920b85f78d013c31cdb3b92f5d765c783030
+
+
+
+</rich_text>
+    <rich_text scale="h2" foreground="#3584e4">Domain Cached Credentials (MSCache2)</rich_text>
+    <rich_text>
+
+- When a user logs into a domain-joined Windows machine (e.g., a corporate laptop), Windows caches a copy of their password hash locally.
+- This allows the user to:
+		&gt; Log in while offline (e.g., working from home or disconnected from the corporate network),
+		&gt; Without contacting the domain controller (DC).
+- Hosts save the last ten hashes for any domain users that successfully log into the machine in the </rich_text>
+    <rich_text foreground="#2ec27e">HKEY_LOCAL_MACHINE\SECURITY\Cache</rich_text>
+    <rich_text> registry key.
+- These hashes cannot be used in pass-the-hash attacks.
+
+
+</rich_text>
+    <rich_text scale="h2" foreground="#3584e4">User Naming Attributes</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left" scale="h3" foreground="#a4b1cd">Security in Active Directory can be improved using a set of user naming attributes to help identify user objects like logon name or ID. The following are a few important Naming Attributes in AD:</rich_text>
+    <rich_text>
+	
+		
+- </rich_text>
+    <rich_text weight="heavy">UserPrincipalName (UPN)	</rich_text>
+    <rich_text>			This is the primary logon name for the user. By convention, the UPN uses the email address of the user.
+- </rich_text>
+    <rich_text weight="heavy">ObjectGUID		</rich_text>
+    <rich_text>								This is a unique identifier of the user. In AD, the ObjectGUID attribute name never changes and remains unique even if the user is removed.
+- </rich_text>
+    <rich_text weight="heavy">SAMAccountName	</rich_text>
+    <rich_text>						This is a logon name that supports the previous version of Windows clients and servers.
+- </rich_text>
+    <rich_text weight="heavy">objectSID	</rich_text>
+    <rich_text>										The user's Security Identifier (SID). This attribute identifies a user and its group memberships during security interactions with the server.
+- </rich_text>
+    <rich_text weight="heavy">sIDHistory	</rich_text>
+    <rich_text>										This contains previous SIDs for the user object if moved from another domain and is typically seen in migration scenarios from domain to domain. After a migration occurs, the last SID will be added to the sIDHistory property, and the new SID will become its objectSID.
+</rich_text>
+    <rich_text background="#000000">
+------------------------------------------------------------------------------------------------------------------------------------------	
+	
+		</rich_text>
+    <rich_text family="monospace" background="#000000">Get-ADUser -Identity htb-student
+					DistinguishedName : CN=htb student,CN=Users,DC=INLANEFREIGHT,DC=LOCAL
+					Enabled           : True
+					GivenName         : htb
+					Name              : htb student
+					ObjectClass       : user
+					ObjectGUID        : aa799587-c641-4c23-a2f7-75850b4dd7e3
+					SamAccountName    : htb-student
+					SID               : S-1-5-21-3842939050-3880317879-2865463114-1111
+					Surname           : student
+					UserPrincipalName : htb-student@INLANEFREIGHT.LOCAL	</rich_text>
+    <rich_text>
+
+------------------------------------------------------------------------------------------------------------------------------------------
+		
+
+</rich_text>
+    <rich_text scale="h1" foreground="#1c71d8">Active Directory Groups</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text justification="left"></rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text scale="h2">Types of Groups</rich_text>
+    <rich_text>
+
+- The </rich_text>
+    <rich_text family="monospace" foreground="#26a269" weight="heavy">Security groups</rich_text>
+    <rich_text> type is primarily for ease of assigning permissions and rights to a collection of users instead of one at a time.
+- The </rich_text>
+    <rich_text family="monospace" foreground="#26a269" weight="heavy">Distribution groups</rich_text>
+    <rich_text> type is used by email applications such as Microsoft Exchange to distribute messages to group members. 
+
+</rich_text>
+    <rich_text family="monospace" scale="h2">Group Scopes</rich_text>
+    <rich_text>
+
+- </rich_text>
+    <rich_text foreground="#26a269" weight="heavy">Domain local groups </rich_text>
+    <rich_text>can only be used to manage permissions to domain resources in the domain where it was created. 
+- </rich_text>
+    <rich_text foreground="#26a269" weight="heavy">Global groups</rich_text>
+    <rich_text> can be used to grant access to resources in another domain. 
+- The </rich_text>
+    <rich_text foreground="#26a269" weight="heavy">universal group scope</rich_text>
+    <rich_text> can be used to manage resources distributed across multiple domains and can be given permissions to any object within the same forest.
+
+------------------------------------------------------------------------------------------------------------------------------------------
+</rich_text>
+    <rich_text family="monospace">PS C:\htb&gt; Get-ADGroup  -Filter * |select samaccountname,groupscope
+		samaccountname                           groupscope
+		--------------                           ----------
+		Administrators                          DomainLocal
+		Users                                   DomainLocal
+		Guests                                  DomainLocal
+		Print Operators                         DomainLocal
+		Backup Operators                        DomainLocal
+		Replicator                              DomainLocal
+		Remote Desktop Users                    DomainLocal
+		Network Configuration Operators         DomainLocal
+		Distributed COM Users                   DomainLocal
+		IIS_IUSRS                               DomainLocal
+		Cryptographic Operators                 DomainLocal
+		Event Log Readers                       DomainLocal
+		Certificate Service DCOM Access         DomainLocal
+		RDS Remote Access Servers               DomainLocal
+		RDS Endpoint Servers                    DomainLocal
+		RDS Management Servers                  DomainLocal
+		Hyper-V Administrators                  DomainLocal
+		Access Control Assistance Operators     DomainLocal
+		Remote Management Users                 DomainLocal
+		Storage Replica Administrators          DomainLocal
+		Domain Computers                             Global
+		Domain Controllers                           Global
+		Schema Admins                             Universal
+		Enterprise Admins                         Universal
+		Cert Publishers                         DomainLocal
+		Domain Admins                                Global
+		Domain Users                                 Global
+		Domain Guests                                Global</rich_text>
+    <rich_text>
+		
+------------------------------------------------------------------------------------------------------------------------------------------</rich_text>
+    <encoded_png char_offset="6" justification="left" link="" sha256sum="52cf933b6807a9a73620d6cbcc8c50b6cc1ec80cb607936b31b866fb3d0550ae"/>
+    <encoded_png char_offset="571" justification="left" link="" sha256sum="2b5dd733a6e9be233011d9e94702eb4f665b76dce63b9359b6a8c32f216d8c1a"/>
+    <encoded_png char_offset="4685" justification="left" link="webs https://academy.hackthebox.com/storage/modules/74/group-options2.png" sha256sum="5a0980a3bc3f55a8758ace4d1f6513a8f7760983997e3adcfe19b5a5de7e8f90"/>
+  </node>
+</cherrytree>

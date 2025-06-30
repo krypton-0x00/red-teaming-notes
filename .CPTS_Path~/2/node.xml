@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <node unique_id="2" master_id="0" name="Windows Services &amp; Process" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1750259183" ts_lastsave="1750467218">
+    <rich_text scale="h2">Windows Services</rich_text>
+    <rich_text> 
+
+	Get-Service | ? {$_.Status -eq "Running"} | select -First 2 |fl
+
+
+</rich_text>
+    <rich_text scale="h2">Examining services using sc</rich_text>
+    <rich_text>
+	</rich_text>
+    <rich_text family="monospace">sc ALEX or &lt;ip&gt; of box query ServiceName</rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text scale="h2">Stoping services services using sc</rich_text>
+    <rich_text>
+	</rich_text>
+    <rich_text family="monospace">sc stop wuauserv</rich_text>
+    <rich_text>
+	
+</rich_text>
+    <rich_text scale="h2">Changing Service Config</rich_text>
+    <rich_text>
+	</rich_text>
+    <rich_text family="monospace">config wuauserv binPath=C:\Winbows\Perfectlylegitprogram.exe</rich_text>
+    <rich_text>
+	
+</rich_text>
+    <rich_text scale="h2">Stoping servExamine service permices services using sc</rich_text>
+    <rich_text>
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LSASS -  </rich_text>
+    <rich_text scale="h2">Local Security Authority Subsystem Service</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text family="monospace" underline="single" style="italic">lsass.exe</rich_text>
+    <rich_text family="monospace" style="italic"> is the process that is responsible for enforcing the security policy on Windows systems. When a user attempts to log on to the system, this process verifies their log on attempt and creates access tokens based on the user's permission levels. LSASS is also responsible for user account password changes.</rich_text>
+    <rich_text style="italic"> is the process that is responsible for enforcing the security policy on Windows systems. When a user attempts to log on to the system, this process verifies their log on attempt and creates access tokens based on the user's permission levels. LSASS is also responsible for user account password changes.</rich_text>
+    <rich_text>
+
+
+
+
+</rich_text>
+  </node>
+</cherrytree>

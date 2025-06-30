@@ -24,16 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "CPTS/7.Shells And Payloads/Untitled.md",
-      "timestamp": 1747992394034
+      "filepath": "HTB/Planning.md",
+      "timestamp": 1751295583895
     },
     {
-      "filepath": "CPTS/7.Shells And Payloads/BindShells.md",
-      "timestamp": 1747991984487
+      "filepath": "UseFull Stuff/Upgrading TTY.md",
+      "timestamp": 1751295340516
     },
     {
-      "filepath": "CPTS/6.File Transfers/Evading detection.md",
-      "timestamp": 1747991969000
+      "filepath": "UseFull Stuff/Check What Service is running on specific port.md",
+      "timestamp": 1751295130509
+    },
+    {
+      "filepath": "CPTS/Labs/1.DNS Lab.md",
+      "timestamp": 1751294940373
+    },
+    {
+      "filepath": "CPTS/Labs/0.Nibbles.md",
+      "timestamp": 1751294938563
     }
   ],
   "bookmarkedFileStore": [],

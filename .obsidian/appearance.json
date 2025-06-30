@@ -1,8 +1,8 @@
 {
-  "cssTheme": "Shimmering Focus",
+  "cssTheme": "mono black (monochrome, charcoal)",
   "theme": "obsidian",
   "baseFontSize": 16,
   "nativeMenus": false,
-  "showRibbon": false,
+  "showRibbon": true,
   "showViewHeader": true
 }
