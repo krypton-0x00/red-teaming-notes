@@ -21,7 +21,29 @@
   },
   "appIcons": {},
   "tabIcons": {},
-  "fileIcons": {},
+  "fileIcons": {
+    "Methods for diff situations": {
+      "icon": "lucide-gitlab",
+      "unsynced": [
+        "368efc682771e5fe"
+      ],
+      "color": "red"
+    },
+    "Reverse Engineering": {
+      "icon": "lucide-settings",
+      "unsynced": [
+        "368efc682771e5fe"
+      ],
+      "color": "blue"
+    },
+    "UseFull Stuff": {
+      "icon": "question-mark-glyph",
+      "color": "yellow",
+      "unsynced": [
+        "368efc682771e5fe"
+      ]
+    }
+  },
   "bookmarkIcons": {},
   "tagIcons": {},
   "propertyIcons": {},

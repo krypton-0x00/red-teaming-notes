@@ -6,9 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiActivitySquare",
-      "LiFingerprint",
-      "🥼"
+      "LiComputer",
+      "LiScrollText",
+      "LiBox",
+      "LiImage",
+      "🪟"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -31,5 +33,21 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
+  },
+  "Active Directory": "🪟",
+  "attachments": "LiImage",
+  "Boxes Writeup": {
+    "iconName": "LiBox",
+    "iconColor": "#2bff00"
+  },
+  "Cheat sheets": "LiScrollText",
+  "images": "LiImage",
+  "Linux": {
+    "iconName": "LiComputer",
+    "iconColor": "#00ff33"
+  },
+  "CPTS All in one": {
+    "iconName": "LiBox",
+    "iconColor": "#00ff04"
   }
 }

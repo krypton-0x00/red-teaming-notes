@@ -1,0 +1,8 @@
+{
+  "hidden": true,
+  "hiddenList": [
+    "images",
+    "attachments",
+    "CPTS_Path"
+  ]
+}
