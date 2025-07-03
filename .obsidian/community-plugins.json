@@ -1,9 +1,11 @@
 [
   "home-tab",
   "obsidian-icon-folder",
-  "iconic",
-  "obsidian-file-color",
   "obsidian-trash-explorer",
   "folders2graph",
-  "OA-file-hider"
+  "OA-file-hider",
+  "obsidian-icon-swapper",
+  "obsidian-excalidraw-plugin",
+  "obsidian-minimal-settings",
+  "obsidian-git"
 ]

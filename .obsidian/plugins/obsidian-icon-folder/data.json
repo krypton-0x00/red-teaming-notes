@@ -2,15 +2,15 @@
   "settings": {
     "migrated": 6,
     "iconPacksPath": ".obsidian/icons",
-    "fontSize": 16,
+    "fontSize": 18,
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiComputer",
-      "LiScrollText",
-      "LiBox",
-      "LiImage",
-      "🪟"
+      "🛡",
+      "LiFolderOpen",
+      "◀",
+      "LiBarChartHorizontal",
+      "LiSettings"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -30,11 +30,14 @@
     "iconsInNotesEnabled": true,
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
-    "lucideIconPackType": "native",
+    "lucideIconPackType": "custom",
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "Active Directory": "🪟",
+  "Active Directory": {
+    "iconName": "FabWindows",
+    "iconColor": "#004cff"
+  },
   "attachments": "LiImage",
   "Boxes Writeup": {
     "iconName": "LiBox",
@@ -43,11 +46,29 @@
   "Cheat sheets": "LiScrollText",
   "images": "LiImage",
   "Linux": {
-    "iconName": "LiComputer",
-    "iconColor": "#00ff33"
+    "iconName": "FabLinux",
+    "iconColor": "#0062ff"
   },
   "CPTS All in one": {
     "iconName": "LiBox",
     "iconColor": "#00ff04"
-  }
+  },
+  "Windows": {
+    "iconName": "FabWindows",
+    "iconColor": "#00b3ff"
+  },
+  "HandsonRust": {
+    "iconName": "FabRust",
+    "iconColor": "#ff6600"
+  },
+  "Reverse Engineering": "⚙",
+  "UseFull Stuff": "LiComputer",
+  "Networking": "FabInternetExplorer",
+  "Methods for diff situations": "LiRedo",
+  "CPTS All in one/Common Methods": "FabAsymmetrik",
+  "CPTS All in one/Common services": "LiSettings",
+  "CPTS All in one/Common Situations": "LiBarChartHorizontal",
+  "CPTS All in one/Common Tools": "◀",
+  "CPTS All in one/File Transfers": "LiFolderOpen",
+  "CPTS All in one/Password Attacks": "🛡"
 }
