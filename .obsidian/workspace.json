@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5086555480957,
-    "collapsed": true
+    "width": 307.5086555480957
   },
   "right": {
     "id": "2a66004b67fc3a31",
@@ -185,8 +184,9 @@
   },
   "active": "c910fe369c5a4923",
   "lastOpenFiles": [
-    "CPTS/Password Attacks/2. Hashcat.md",
+    "Cheat sheets/Quick Linux PrevESC.md",
     "CPTS/Password Attacks/3. Custom Wordlists.md",
+    "CPTS/Password Attacks/2. Hashcat.md",
     "CPTS/Password Attacks/1.John The Ripper.md",
     "Windows/Basics.md",
     "Linux/zsh ctrl bkspc.md",
@@ -212,7 +212,6 @@
     "RUST/Smart Pointers/RC,RefCell, Weak , Memory Leaks.md",
     "RUST/Smart Pointers/Deref Coercion.md",
     "RUST/Smart Pointers/Cell,UnsafeCell , Atomic,.md",
-    "RUST/Macros/ProcMacros.md",
     "RUST/Unsafe Rust",
     "RUST/Traits",
     "RUST/TraitObject",
