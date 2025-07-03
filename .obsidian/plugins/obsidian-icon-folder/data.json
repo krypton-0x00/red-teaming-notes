@@ -57,10 +57,6 @@
     "iconName": "FabWindows",
     "iconColor": "#00b3ff"
   },
-  "HandsonRust": {
-    "iconName": "FabRust",
-    "iconColor": "#ff6600"
-  },
   "Reverse Engineering": "⚙",
   "UseFull Stuff": "LiComputer",
   "Networking": "FabInternetExplorer",
@@ -71,5 +67,9 @@
   "CPTS All in one/Common Tools": "◀",
   "CPTS All in one/File Transfers": "LiFolderOpen",
   "CPTS All in one/Password Attacks": "🛡",
-  "CPTS All in one/Password Attacks/2. Hashcat.md": "LiCat"
+  "CPTS All in one/Password Attacks/2. Hashcat.md": "LiCat",
+  "RUST": {
+    "iconName": "FabRust",
+    "iconColor": "#ff6600"
+  }
 }
