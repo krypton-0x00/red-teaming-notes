@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiCat",
       "🛡",
       "LiFolderOpen",
       "◀",
-      "LiBarChartHorizontal",
-      "LiSettings"
+      "LiBarChartHorizontal"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -70,5 +70,6 @@
   "CPTS All in one/Common Situations": "LiBarChartHorizontal",
   "CPTS All in one/Common Tools": "◀",
   "CPTS All in one/File Transfers": "LiFolderOpen",
-  "CPTS All in one/Password Attacks": "🛡"
+  "CPTS All in one/Password Attacks": "🛡",
+  "CPTS All in one/Password Attacks/2. Hashcat.md": "LiCat"
 }
