@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🛳",
       "LiCat",
       "🛡",
       "LiFolderOpen",
-      "◀",
-      "LiBarChartHorizontal"
+      "◀"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -49,10 +49,6 @@
     "iconName": "FabLinux",
     "iconColor": "#0062ff"
   },
-  "CPTS All in one": {
-    "iconName": "LiBox",
-    "iconColor": "#00ff04"
-  },
   "Windows": {
     "iconName": "FabWindows",
     "iconColor": "#00b3ff"
@@ -61,15 +57,20 @@
   "UseFull Stuff": "LiComputer",
   "Networking": "FabInternetExplorer",
   "Methods for diff situations": "LiRedo",
-  "CPTS All in one/Common Methods": "FabAsymmetrik",
-  "CPTS All in one/Common services": "LiSettings",
-  "CPTS All in one/Common Situations": "LiBarChartHorizontal",
-  "CPTS All in one/Common Tools": "◀",
-  "CPTS All in one/File Transfers": "LiFolderOpen",
-  "CPTS All in one/Password Attacks": "🛡",
-  "CPTS All in one/Password Attacks/2. Hashcat.md": "LiCat",
   "RUST": {
     "iconName": "FabRust",
     "iconColor": "#ff6600"
-  }
+  },
+  "CPTS": {
+    "iconName": "LiBox",
+    "iconColor": "#00ff04"
+  },
+  "CPTS/Common Methods": "FabAsymmetrik",
+  "CPTS/Common Situations": "LiBarChartHorizontal",
+  "CPTS/Common Tools": "◀",
+  "CPTS/Common services": "LiSettings",
+  "CPTS/File Transfers": "LiFolderOpen",
+  "CPTS/Password Attacks": "🛡",
+  "CPTS/Password Attacks/2. Hashcat.md": "LiCat",
+  "CPTS/Password Attacks/1.John The Ripper.md": "🛳"
 }

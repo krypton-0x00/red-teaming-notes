@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPTS All in one/Password Attacks/2. Hashcat.md",
+                "file": "CPTS/Password Attacks/3. Custom Wordlists.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Hashcat"
+              "title": "3. Custom Wordlists"
             }
           }
         ]
@@ -185,8 +185,9 @@
   },
   "active": "c910fe369c5a4923",
   "lastOpenFiles": [
-    "CPTS All in one/Password Attacks/1.John The Ripper.md",
-    "CPTS All in one/Password Attacks/2. Hashcat.md",
+    "CPTS/Password Attacks/2. Hashcat.md",
+    "CPTS/Password Attacks/3. Custom Wordlists.md",
+    "CPTS/Password Attacks/1.John The Ripper.md",
     "Windows/Basics.md",
     "Linux/zsh ctrl bkspc.md",
     "Linux/Reconfig removed grub.md",
@@ -212,7 +213,6 @@
     "RUST/Smart Pointers/Deref Coercion.md",
     "RUST/Smart Pointers/Cell,UnsafeCell , Atomic,.md",
     "RUST/Macros/ProcMacros.md",
-    "RUST/Macros/Declar.md",
     "RUST/Unsafe Rust",
     "RUST/Traits",
     "RUST/TraitObject",
