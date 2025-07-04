@@ -11,10 +11,14 @@
             "id": "f2e6f3b619fa7a28",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "CPTS/Password Attacks/4. Cracking Protected Files.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4. Cracking Protected Files"
             }
           }
         ]
@@ -179,6 +183,7 @@
   },
   "active": "f2e6f3b619fa7a28",
   "lastOpenFiles": [
+    "CPTS/Password Attacks/4. Cracking Protected Files.md",
     "images/cmd-inject-skill-assess-success-identified.png",
     "images/burp-repeater-send-cookie-stealer-stored-xss.png",
     "CPTS/Password Attacks/3. Custom Wordlists.md",
@@ -224,7 +229,6 @@
     "attachments/Pasted image 20250317015002.png",
     "attachments/Pasted image 20250317014727.png",
     "attachments/Pasted image 20250317014602.png",
-    "attachments/Pasted image 20250702084350.png",
     "CPTS/3.Footprinting/Untitled.canvas"
   ]
 }
