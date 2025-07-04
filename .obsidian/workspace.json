@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3538a39eafdd62fb",
+        "id": "b5bf5afe075cb2b0",
         "type": "tabs",
         "children": [
           {
-            "id": "f2e6f3b619fa7a28",
+            "id": "a57102358fd817d5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Windows/NTFS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "NTFS"
+              "type": "home-tab-view",
+              "state": {},
+              "icon": "search",
+              "title": "Home tab"
             }
           }
         ]
@@ -88,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5086555480957,
-    "collapsed": true
+    "width": 307.5086555480957
   },
   "right": {
     "id": "2a66004b67fc3a31",
@@ -182,8 +177,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f2e6f3b619fa7a28",
+  "active": "a57102358fd817d5",
   "lastOpenFiles": [
+    "Windows/NTFS.md",
     "Windows/Basics.md",
     "CPTS/Password Attacks/6. Network Services.md",
     "CPTS/Password Attacks/5. Cracking Protected Archives.md",
@@ -214,7 +210,6 @@
     "RUST/Traits/Default Trait.md",
     "RUST/TraitObject/Dynamic Dispatch.md",
     "RUST/Smart Pointers/Tree Data Structure using Smart Pointers.md",
-    "RUST/Smart Pointers/Recursive types with boxT and Con List.md",
     "RUST/Unsafe Rust",
     "RUST/Traits",
     "RUST/TraitObject",
