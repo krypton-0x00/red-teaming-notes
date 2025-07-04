@@ -48,3 +48,32 @@ icacls c:\users /remove joe
 ```
 
 
+# NTFS vs Share Permissions
+
+Windows has **two types of permissions** for shared folders:
+#### **Share Permissions** (When accessed _over the network_):
+
+- **Full Control**: Can do everything (read, write, delete, and change permissions).
+    
+- **Change**: Can read, add, edit, and delete files.
+    
+- **Read**: Can only view files.
+#### **NTFS Permissions** (Apply _locally and over the network_):
+
+- **More granular and detailed** than share permissions.
+    
+- Examples:
+    
+    - **Modify**: Read, write, and delete.
+        
+    - **Read & Execute**: View and run files.
+        
+    - **Special Permissions**: Advanced settings like changing ownership or attributes.
+
+> [!NOTE] 
+**Important**: NTFS permissions always apply, whether you’re accessing files **locally or over the network**. Share permissions apply **only over SMB/network access**.
+
+- In Windows, **NTFS permissions are inherited** by default (a subfolder inherits permissions from its parent).
+- Admins can **disable inheritance** to set custom rules on specific folders.
+- NTFS provides **finer control**, while share permissions are broader.
+
