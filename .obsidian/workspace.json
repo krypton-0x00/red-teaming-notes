@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b5bf5afe075cb2b0",
+        "id": "f1ada11ea454aa3d",
         "type": "tabs",
         "children": [
           {
-            "id": "a57102358fd817d5",
+            "id": "1b0ed729ed592ec7",
             "type": "leaf",
             "state": {
               "type": "home-tab-view",
@@ -177,8 +177,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a57102358fd817d5",
+  "active": "1b0ed729ed592ec7",
   "lastOpenFiles": [
+    "RUST/Async RUST/3.Blocking Computation.md",
+    "RUST/Async RUST/2.spawn tasks.md",
+    "RUST/clone ,copy, From, Into.md",
+    "RUST/CFG.md",
+    "RUST/Advance pattern matching.md",
+    "Linux/Arch Linux Install & Ricing.md",
     "Windows/NTFS.md",
     "Windows/Basics.md",
     "CPTS/Password Attacks/6. Network Services.md",
@@ -193,7 +199,6 @@
     "CPTS/Password Attacks/1.John The Ripper.md",
     "Linux/zsh ctrl bkspc.md",
     "Linux/Reconfig removed grub.md",
-    "Linux/Arch Linux Install & Ricing.md",
     "Networking/Programming/1.RUST Networking.md",
     "Networking/6.ARP.md",
     "Networking/5.DHCP.md",
@@ -205,11 +210,6 @@
     "Networking/Programming",
     "Networking",
     "RUST/Unsafe Rust/asm! Macro.md",
-    "RUST/Unsafe Rust/FFI.md",
-    "RUST/Traits/Dref Trait.md",
-    "RUST/Traits/Default Trait.md",
-    "RUST/TraitObject/Dynamic Dispatch.md",
-    "RUST/Smart Pointers/Tree Data Structure using Smart Pointers.md",
     "RUST/Unsafe Rust",
     "RUST/Traits",
     "RUST/TraitObject",

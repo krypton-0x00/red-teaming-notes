@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "🛳",
-      "LiCat",
-      "🛡",
-      "LiFolderOpen",
-      "◀"
+      "SiArchlinux",
+      "SiWindows",
+      "SiHackthebox",
+      "LiBox",
+      "🛳"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -35,8 +35,8 @@
     "useInternalPlugins": false
   },
   "Active Directory": {
-    "iconName": "FabWindows",
-    "iconColor": "#004cff"
+    "iconName": "SiWindows",
+    "iconColor": "#006eff"
   },
   "attachments": "LiImage",
   "Boxes Writeup": {
@@ -45,10 +45,7 @@
   },
   "Cheat sheets": "LiScrollText",
   "images": "LiImage",
-  "Linux": {
-    "iconName": "FabLinux",
-    "iconColor": "#0062ff"
-  },
+  "Linux": "SiArchlinux",
   "Windows": {
     "iconName": "FabWindows",
     "iconColor": "#00b3ff"
@@ -72,5 +69,13 @@
   "CPTS/File Transfers": "LiFolderOpen",
   "CPTS/Password Attacks": "🛡",
   "CPTS/Password Attacks/2. Hashcat.md": "LiCat",
-  "CPTS/Password Attacks/1.John The Ripper.md": "🛳"
+  "CPTS/Password Attacks/1.John The Ripper.md": "🛳",
+  "Boxes Writeup/HTB": {
+    "iconName": "LiBox",
+    "iconColor": "#04ff00"
+  },
+  "Boxes Writeup/CPTS": {
+    "iconName": "SiHackthebox",
+    "iconColor": "#11ff00"
+  }
 }
