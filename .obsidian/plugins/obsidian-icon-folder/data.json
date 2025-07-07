@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FabPython",
       "SiArchlinux",
       "SiWindows",
       "SiHackthebox",
-      "LiBox",
-      "🛳"
+      "LiBox"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -77,5 +77,9 @@
   "Boxes Writeup/CPTS": {
     "iconName": "SiHackthebox",
     "iconColor": "#11ff00"
+  },
+  "Python": {
+    "iconName": "FabPython",
+    "iconColor": "#007bff"
   }
 }
