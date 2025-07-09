@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPTS/Password Attacks/1.John The Ripper.md",
+                "file": "CPTS/Password Attacks/7. Spraying , Stuffing and Defaults.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.John The Ripper"
+              "title": "7. Spraying , Stuffing and Defaults"
             }
           }
         ]
@@ -184,9 +184,10 @@
   },
   "active": "1b0ed729ed592ec7",
   "lastOpenFiles": [
+    "CPTS/Password Attacks/1.John The Ripper.md",
+    "CPTS/Password Attacks/7. Spraying , Stuffing and Defaults.md",
     "CPTS/Password Attacks/3. Custom Wordlists.md",
     "CPTS/Password Attacks/2. Hashcat.md",
-    "CPTS/Password Attacks/1.John The Ripper.md",
     "Boxes Writeup/HTB/Environment.md",
     "attachments/Pasted image 20250709115740.png",
     "attachments/Pasted image 20250709115020.png",
