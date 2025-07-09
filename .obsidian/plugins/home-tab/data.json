@@ -24,6 +24,18 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "CPTS/Password Attacks/1.John The Ripper.md",
+      "timestamp": 1752046990695
+    },
+    {
+      "filepath": "CPTS/Password Attacks/3. Custom Wordlists.md",
+      "timestamp": 1752046986372
+    },
+    {
+      "filepath": "CPTS/Password Attacks/2. Hashcat.md",
+      "timestamp": 1752046983243
+    },
+    {
       "filepath": "Boxes Writeup/HTB/Environment.md",
       "timestamp": 1752046749776
     }

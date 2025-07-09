@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Boxes Writeup/HTB/Environment.md",
+                "file": "CPTS/Password Attacks/1.John The Ripper.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Environment"
+              "title": "1.John The Ripper"
             }
           }
         ]
@@ -183,12 +183,15 @@
   },
   "active": "1b0ed729ed592ec7",
   "lastOpenFiles": [
+    "CPTS/Password Attacks/3. Custom Wordlists.md",
+    "CPTS/Password Attacks/2. Hashcat.md",
+    "CPTS/Password Attacks/1.John The Ripper.md",
+    "Boxes Writeup/HTB/Environment.md",
     "attachments/Pasted image 20250709115740.png",
     "attachments/Pasted image 20250709115020.png",
     "attachments/Pasted image 20250709115007.png",
     "attachments/Pasted image 20250709115001.png",
     "Cheat sheets/Quick Linux PrevESC.md",
-    "Boxes Writeup/HTB/Environment.md",
     "Python/1. Useful libs..md",
     "Python",
     "RUST/Async RUST/3.Blocking Computation.md",
@@ -205,9 +208,6 @@
     "CPTS/Password Attacks/4. Cracking Protected Files.md",
     "images/cmd-inject-skill-assess-success-identified.png",
     "images/burp-repeater-send-cookie-stealer-stored-xss.png",
-    "CPTS/Password Attacks/3. Custom Wordlists.md",
-    "CPTS/Password Attacks/2. Hashcat.md",
-    "CPTS/Password Attacks/1.John The Ripper.md",
     "Linux/zsh ctrl bkspc.md",
     "Linux/Reconfig removed grub.md",
     "Networking/Programming/1.RUST Networking.md",
@@ -228,7 +228,6 @@
     "attachments/Pasted image 20250702173244.png",
     "attachments/Pasted image 20250317045701.png",
     "attachments/Pasted image 20250425073521.png",
-    "attachments/Pasted image 20250425073217.png",
     "CPTS/3.Footprinting/Untitled.canvas"
   ]
 }
