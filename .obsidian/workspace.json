@@ -11,10 +11,14 @@
             "id": "43e7212b53e312c1",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Arch Base.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arch Base"
             }
           }
         ]
@@ -179,6 +183,7 @@
   },
   "active": "43e7212b53e312c1",
   "lastOpenFiles": [
+    "Linux/Arch Base.md",
     "CPTS/Misc.md",
     "CPTS/Password Attacks/7. Spraying , Stuffing and Defaults.md",
     "CPTS/Password Attacks/1.John The Ripper.md",
@@ -212,7 +217,6 @@
     "Networking/6.ARP.md",
     "Networking/5.DHCP.md",
     "Networking/4.Firewall.md",
-    "Networking/3.DNS.md",
     "Networking/Programming",
     "Networking",
     "RUST/Unsafe Rust",
