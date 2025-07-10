@@ -24,24 +24,8 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Reverse Engineering/Reversing/04_lecture.pdf",
-      "timestamp": 1752125252518
-    },
-    {
-      "filepath": "Reverse Engineering/Reversing/03_lecture.pdf",
-      "timestamp": 1752125136221
-    },
-    {
-      "filepath": "Reverse Engineering/Reversing/02_lecture.pdf",
-      "timestamp": 1752124348346
-    },
-    {
-      "filepath": "Reverse Engineering/Reversing/01_lecture.pdf",
-      "timestamp": 1752124347504
-    },
-    {
-      "filepath": "CPTS/Password Attacks/7. Spraying , Stuffing and Defaults.md",
-      "timestamp": 1752124337535
+      "filepath": "Reverse Engineering/Assembly x64/Classes At Assembly Level.md",
+      "timestamp": 1752136026529
     }
   ],
   "bookmarkedFileStore": [],
