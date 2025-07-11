@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "⏮",
       "SiWindowsxp",
       "RiWindowsFill",
       "SiPowershell",
-      "TiSpy",
-      "TiNetwork"
+      "TiSpy"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -88,5 +88,6 @@
   "CPTS/Password Attacks/6. Network Services.md": "TiNetwork",
   "CPTS/Password Attacks/7. Spraying , Stuffing and Defaults.md": "TiSpy",
   "CPTS/Shells And Payloads": "SiPowershell",
-  "CPTS/Password Attacks/8. Attacking SAM,SYSTEM and SECURITY.md": "SiWindowsxp"
+  "CPTS/Password Attacks/8. Attacking SAM,SYSTEM and SECURITY.md": "SiWindowsxp",
+  "CPTS/Password Attacks/9. Attacking LSASS.md": "⏮"
 }
