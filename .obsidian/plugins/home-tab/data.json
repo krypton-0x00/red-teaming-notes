@@ -24,24 +24,12 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "CPTS/Password Attacks/14. Credential Hunting In Linux.md",
-      "timestamp": 1752303278668
-    },
-    {
-      "filepath": "CPTS/Password Attacks/13. Linux Authentication Process.md",
-      "timestamp": 1752303274032
-    },
-    {
-      "filepath": "CPTS/Password Attacks/15. Credential Hunting in Network Traffic.md",
-      "timestamp": 1752301622462
-    },
-    {
       "filepath": "UseFull Stuff/Upgrading TTY.md",
-      "timestamp": 1752299936049
+      "timestamp": 1752311432976
     },
     {
-      "filepath": "CPTS/Password Attacks/12. Credential Hunting in windows.md",
-      "timestamp": 1752296567542
+      "filepath": "CPTS/Password Attacks/14. Credential Hunting In Linux.md",
+      "timestamp": 1752311431151
     }
   ],
   "bookmarkedFileStore": [],
