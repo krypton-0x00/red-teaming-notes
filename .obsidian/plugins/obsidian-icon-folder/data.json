@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiReactivex",
+      "FabWindows",
       "⏮",
       "SiWindowsxp",
-      "RiWindowsFill",
-      "SiPowershell",
-      "TiSpy"
+      "RiWindowsFill"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -89,5 +89,7 @@
   "CPTS/Password Attacks/7. Spraying , Stuffing and Defaults.md": "TiSpy",
   "CPTS/Shells And Payloads": "SiPowershell",
   "CPTS/Password Attacks/8. Attacking SAM,SYSTEM and SECURITY.md": "SiWindowsxp",
-  "CPTS/Password Attacks/9. Attacking LSASS.md": "⏮"
+  "CPTS/Password Attacks/9. Attacking LSASS.md": "⏮",
+  "CPTS/Password Attacks/10. Attacking Windows Credential Manager.md": "FabWindows",
+  "CPTS/Password Attacks/11. Attacking Active Directory And NTDS.dit.md": "SiReactivex"
 }

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPTS/Password Attacks/11. Attacking Active Directory And NTDS.dit.md",
+                "file": "CPTS/Password Attacks/12. Credential Hunting in windows.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11. Attacking Active Directory And NTDS.dit"
+              "title": "12. Credential Hunting in windows"
             }
           }
         ]
@@ -183,10 +183,11 @@
   },
   "active": "eae44550f140268e",
   "lastOpenFiles": [
+    "CPTS/Password Attacks/11. Attacking Active Directory And NTDS.dit.md",
+    "CPTS/Password Attacks/12. Credential Hunting in windows.md",
     "attachments/Pasted image 20250712075257.png",
     "attachments/Pasted image 20250712074018.png",
     "CPTS/Shells And Payloads/BindShells.md",
-    "CPTS/Password Attacks/11. Attacking Active Directory And NTDS.dit.md",
     "CPTS/Password Attacks/10. Attacking Windows Credential Manager.md",
     "attachments/Pasted image 20250711185117.png",
     "attachments/Pasted image 20250711184630.png",
@@ -199,7 +200,6 @@
     "Windows/3. Windows Auth System.md",
     "attachments/Pasted image 20250710154628.png",
     "attachments/Pasted image 20250710154037.png",
-    "attachments/Pasted image 20250710154022.png",
     "Active Directory/Untitled.md",
     "Linux/Arch Base.md",
     "Reverse Engineering/Assembly x64/Classes At Assembly Level.md",
