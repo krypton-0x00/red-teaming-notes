@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPTS/Password Attacks/15. Credential Hunting in Network Traffic.md",
+                "file": "CPTS/Password Attacks/14. Credential Hunting In Linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15. Credential Hunting in Network Traffic"
+              "title": "14. Credential Hunting In Linux"
             }
           },
           {
@@ -197,11 +197,11 @@
   },
   "active": "eae44550f140268e",
   "lastOpenFiles": [
+    "CPTS/Password Attacks/13. Linux Authentication Process.md",
+    "CPTS/Password Attacks/15. Credential Hunting in Network Traffic.md",
     "attachments/Pasted image 20250712115759.png",
     "CPTS/Password Attacks/14. Credential Hunting In Linux.md",
-    "CPTS/Password Attacks/15. Credential Hunting in Network Traffic.md",
     "UseFull Stuff/Upgrading TTY.md",
-    "CPTS/Password Attacks/13. Linux Authentication Process.md",
     "CPTS/Password Attacks/12. Credential Hunting in windows.md",
     "CPTS/Password Attacks/11. Attacking Active Directory And NTDS.dit.md",
     "attachments/Pasted image 20250712075257.png",
@@ -218,7 +218,6 @@
     "attachments/Pasted image 20250711150327.png",
     "Windows/3. Windows Auth System.md",
     "attachments/Pasted image 20250710154628.png",
-    "attachments/Pasted image 20250710154037.png",
     "Active Directory/Untitled.md",
     "Linux/Arch Base.md",
     "Reverse Engineering/Assembly x64/Classes At Assembly Level.md",
