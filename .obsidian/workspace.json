@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPTS/Password Attacks/10. Attacking Windows Credential Manager.md",
+                "file": "CPTS/Password Attacks/11. Attacking Active Directory And NTDS.dit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10. Attacking Windows Credential Manager"
+              "title": "11. Attacking Active Directory And NTDS.dit"
             }
           }
         ]
@@ -183,11 +183,14 @@
   },
   "active": "eae44550f140268e",
   "lastOpenFiles": [
+    "attachments/Pasted image 20250712074018.png",
+    "CPTS/Shells And Payloads/BindShells.md",
+    "CPTS/Password Attacks/11. Attacking Active Directory And NTDS.dit.md",
+    "CPTS/Password Attacks/10. Attacking Windows Credential Manager.md",
     "attachments/Pasted image 20250711185117.png",
     "attachments/Pasted image 20250711184630.png",
     "attachments/Pasted image 20250711184541.png",
     "CPTS/Password Attacks/9. Attacking LSASS.md",
-    "CPTS/Password Attacks/10. Attacking Windows Credential Manager.md",
     "CPTS/Password Attacks/8. Attacking SAM,SYSTEM and SECURITY.md",
     "attachments/Pasted image 20250711150618.png",
     "attachments/Pasted image 20250711150606.png",
@@ -210,7 +213,6 @@
     "CPTS/Password Attacks/3. Custom Wordlists.md",
     "CPTS/Password Attacks/2. Hashcat.md",
     "Boxes Writeup/HTB/Environment.md",
-    "attachments/Pasted image 20250709115740.png",
     "Cheat sheets/Quick Linux PrevESC.md",
     "Python/1. Useful libs..md",
     "Python",
@@ -222,8 +224,6 @@
     "Linux/Arch Linux Install & Ricing.md",
     "Windows/NTFS.md",
     "Windows/Basics.md",
-    "CPTS/Password Attacks/6. Network Services.md",
-    "CPTS/Password Attacks/5. Cracking Protected Archives.md",
     "Networking/Programming",
     "Networking",
     "RUST/Unsafe Rust",
