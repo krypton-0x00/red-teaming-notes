@@ -24,12 +24,8 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "CPTS/Password Attacks/Untitled.md",
-      "timestamp": 1752239508806
-    },
-    {
-      "filepath": "CPTS/Password Attacks/9. Attacking LSASS.md",
-      "timestamp": 1752239480842
+      "filepath": "CPTS/Password Attacks/10. Attacking Windows Credential Manager.md",
+      "timestamp": 1752285652610
     }
   ],
   "bookmarkedFileStore": [],
