@@ -24,7 +24,15 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "CPTS/Password Attacks/Untitled.md",
+      "filepath": "CPTS/Password Attacks/14. Credential Hunting In Linux.md",
+      "timestamp": 1752299943641
+    },
+    {
+      "filepath": "UseFull Stuff/Upgrading TTY.md",
+      "timestamp": 1752299936049
+    },
+    {
+      "filepath": "CPTS/Password Attacks/13. Linux Authentication Process.md",
       "timestamp": 1752298380542
     },
     {

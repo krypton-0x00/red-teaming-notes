@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPTS/Password Attacks/13. Linux Authentication Process.md",
+                "file": "CPTS/Password Attacks/14. Credential Hunting In Linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13. Linux Authentication Process"
+              "title": "14. Credential Hunting In Linux"
+            }
+          },
+          {
+            "id": "977ddd9b7d1d2f29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UseFull Stuff/Upgrading TTY.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Upgrading TTY"
             }
           }
         ]
@@ -183,8 +197,10 @@
   },
   "active": "eae44550f140268e",
   "lastOpenFiles": [
-    "CPTS/Password Attacks/12. Credential Hunting in windows.md",
+    "UseFull Stuff/Upgrading TTY.md",
+    "CPTS/Password Attacks/14. Credential Hunting In Linux.md",
     "CPTS/Password Attacks/13. Linux Authentication Process.md",
+    "CPTS/Password Attacks/12. Credential Hunting in windows.md",
     "CPTS/Password Attacks/11. Attacking Active Directory And NTDS.dit.md",
     "attachments/Pasted image 20250712075257.png",
     "attachments/Pasted image 20250712074018.png",
@@ -222,8 +238,6 @@
     "RUST/clone ,copy, From, Into.md",
     "RUST/CFG.md",
     "RUST/Advance pattern matching.md",
-    "Linux/Arch Linux Install & Ricing.md",
-    "Windows/NTFS.md",
     "Networking/Programming",
     "Networking",
     "RUST/Unsafe Rust",

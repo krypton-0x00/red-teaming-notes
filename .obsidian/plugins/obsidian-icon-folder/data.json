@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiKalilinux",
+      "SiLinux",
       "SiReactivex",
       "FabWindows",
-      "⏮",
-      "SiWindowsxp",
-      "RiWindowsFill"
+      "⏮"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -92,5 +92,7 @@
   "CPTS/Password Attacks/9. Attacking LSASS.md": "⏮",
   "CPTS/Password Attacks/10. Attacking Windows Credential Manager.md": "FabWindows",
   "CPTS/Password Attacks/11. Attacking Active Directory And NTDS.dit.md": "SiReactivex",
-  "CPTS/Password Attacks/12. Credential Hunting in windows.md": "SiWindowsxp"
+  "CPTS/Password Attacks/12. Credential Hunting in windows.md": "SiWindowsxp",
+  "CPTS/Password Attacks/13. Linux Authentication Process.md": "SiLinux",
+  "CPTS/Password Attacks/14. Credential Hunting In Linux.md": "SiKalilinux"
 }
