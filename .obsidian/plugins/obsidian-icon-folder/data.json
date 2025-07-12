@@ -91,5 +91,6 @@
   "CPTS/Password Attacks/8. Attacking SAM,SYSTEM and SECURITY.md": "SiWindowsxp",
   "CPTS/Password Attacks/9. Attacking LSASS.md": "⏮",
   "CPTS/Password Attacks/10. Attacking Windows Credential Manager.md": "FabWindows",
-  "CPTS/Password Attacks/11. Attacking Active Directory And NTDS.dit.md": "SiReactivex"
+  "CPTS/Password Attacks/11. Attacking Active Directory And NTDS.dit.md": "SiReactivex",
+  "CPTS/Password Attacks/12. Credential Hunting in windows.md": "SiWindowsxp"
 }
