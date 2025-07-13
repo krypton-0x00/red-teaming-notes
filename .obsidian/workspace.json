@@ -63,7 +63,8 @@
               "title": "Quick Linux PrevESC"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,16 +225,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eae44550f140268e",
+  "active": "9db20bcc6fba73a5",
   "lastOpenFiles": [
-    "CPTS/Password Attacks/14. Credential Hunting In Linux.md",
+    "Cheat sheets/Quick Linux PrevESC.md",
+    "evil-winrm.md",
     "CPTS/Password Attacks/16. Credential Hunting in Network Shares.md",
+    "attachments/Pasted image 20250713150447.png",
+    "CPTS/Password Attacks/14. Credential Hunting In Linux.md",
     "CPTS/Password Attacks/8. Attacking SAM,SYSTEM and SECURITY.md",
     "CPTS/Password Attacks/12. Credential Hunting in windows.md",
     "CPTS/Password Attacks/11. Attacking Active Directory And NTDS.dit.md",
     "CPTS/Password Attacks/10. Attacking Windows Credential Manager.md",
     "CPTS/Password Attacks/9. Attacking LSASS.md",
-    "Cheat sheets/Quick Linux PrevESC.md",
     "UseFull Stuff/Upgrading TTY.md",
     "CPTS/Password Attacks/13. Linux Authentication Process.md",
     "CPTS/Password Attacks/15. Credential Hunting in Network Traffic.md",
@@ -248,7 +251,6 @@
     "attachments/Pasted image 20250711150606.png",
     "attachments/Pasted image 20250711150327.png",
     "Windows/3. Windows Auth System.md",
-    "attachments/Pasted image 20250710154628.png",
     "Active Directory/Untitled.md",
     "Linux/Arch Base.md",
     "Reverse Engineering/Assembly x64/Classes At Assembly Level.md",
@@ -266,7 +268,6 @@
     "Python",
     "RUST/Async RUST/3.Blocking Computation.md",
     "RUST/Async RUST/2.spawn tasks.md",
-    "RUST/clone ,copy, From, Into.md",
     "Networking/Programming",
     "Networking",
     "RUST/Unsafe Rust",
