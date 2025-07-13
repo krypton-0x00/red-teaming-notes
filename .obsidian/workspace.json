@@ -49,8 +49,7 @@
               "title": "Quick Linux PrevESC"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,8 +209,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "37130e350c71370e",
+  "active": "eae44550f140268e",
   "lastOpenFiles": [
+    "Cheat sheets/Quick Linux PrevESC.md",
     "UseFull Stuff/Upgrading TTY.md",
     "CPTS/Password Attacks/14. Credential Hunting In Linux.md",
     "CPTS/Password Attacks/13. Linux Authentication Process.md",
@@ -246,7 +246,6 @@
     "CPTS/Password Attacks/3. Custom Wordlists.md",
     "CPTS/Password Attacks/2. Hashcat.md",
     "Boxes Writeup/HTB/Environment.md",
-    "Cheat sheets/Quick Linux PrevESC.md",
     "Python/1. Useful libs..md",
     "Python",
     "RUST/Async RUST/3.Blocking Computation.md",
