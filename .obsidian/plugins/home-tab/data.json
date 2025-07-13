@@ -24,6 +24,14 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "CPTS/Password Attacks/8. Attacking SAM,SYSTEM and SECURITY.md",
+      "timestamp": 1752375263955
+    },
+    {
+      "filepath": "CPTS/Password Attacks/9. Attacking LSASS.md",
+      "timestamp": 1752375258434
+    },
+    {
       "filepath": "CPTS/Password Attacks/14. Credential Hunting In Linux.md",
       "timestamp": 1752375254101
     },
