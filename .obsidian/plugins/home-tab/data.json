@@ -25,23 +25,7 @@
   "recentFilesStore": [
     {
       "filepath": "CPTS/Password Attacks/14. Credential Hunting In Linux.md",
-      "timestamp": 1752387102486
-    },
-    {
-      "filepath": "CPTS/Password Attacks/12. Credential Hunting in windows.md",
-      "timestamp": 1752385033990
-    },
-    {
-      "filepath": "CPTS/Password Attacks/11. Attacking Active Directory And NTDS.dit.md",
-      "timestamp": 1752384421408
-    },
-    {
-      "filepath": "CPTS/Password Attacks/8. Attacking SAM,SYSTEM and SECURITY.md",
-      "timestamp": 1752384395783
-    },
-    {
-      "filepath": "CPTS/Password Attacks/10. Attacking Windows Credential Manager.md",
-      "timestamp": 1752379891949
+      "timestamp": 1752395885575
     }
   ],
   "bookmarkedFileStore": [],
