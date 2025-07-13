@@ -24,20 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "CPTS/Password Attacks/11. Attacking Active Directory And NTDS.dit.md",
+      "timestamp": 1752379896674
+    },
+    {
+      "filepath": "CPTS/Password Attacks/10. Attacking Windows Credential Manager.md",
+      "timestamp": 1752379891949
+    },
+    {
+      "filepath": "CPTS/Password Attacks/9. Attacking LSASS.md",
+      "timestamp": 1752379891088
+    },
+    {
       "filepath": "CPTS/Password Attacks/8. Attacking SAM,SYSTEM and SECURITY.md",
       "timestamp": 1752375263955
     },
     {
-      "filepath": "CPTS/Password Attacks/9. Attacking LSASS.md",
-      "timestamp": 1752375258434
-    },
-    {
       "filepath": "CPTS/Password Attacks/14. Credential Hunting In Linux.md",
       "timestamp": 1752375254101
-    },
-    {
-      "filepath": "Cheat sheets/Quick Linux PrevESC.md",
-      "timestamp": 1752375251280
     }
   ],
   "bookmarkedFileStore": [],

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPTS/Password Attacks/8. Attacking SAM,SYSTEM and SECURITY.md",
+                "file": "CPTS/Password Attacks/11. Attacking Active Directory And NTDS.dit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8. Attacking SAM,SYSTEM and SECURITY"
+              "title": "11. Attacking Active Directory And NTDS.dit"
             }
           },
           {
@@ -211,7 +211,9 @@
   },
   "active": "eae44550f140268e",
   "lastOpenFiles": [
+    "CPTS/Password Attacks/10. Attacking Windows Credential Manager.md",
     "CPTS/Password Attacks/9. Attacking LSASS.md",
+    "CPTS/Password Attacks/8. Attacking SAM,SYSTEM and SECURITY.md",
     "CPTS/Password Attacks/14. Credential Hunting In Linux.md",
     "Cheat sheets/Quick Linux PrevESC.md",
     "UseFull Stuff/Upgrading TTY.md",
@@ -223,11 +225,9 @@
     "attachments/Pasted image 20250712075257.png",
     "attachments/Pasted image 20250712074018.png",
     "CPTS/Shells And Payloads/BindShells.md",
-    "CPTS/Password Attacks/10. Attacking Windows Credential Manager.md",
     "attachments/Pasted image 20250711185117.png",
     "attachments/Pasted image 20250711184630.png",
     "attachments/Pasted image 20250711184541.png",
-    "CPTS/Password Attacks/8. Attacking SAM,SYSTEM and SECURITY.md",
     "attachments/Pasted image 20250711150618.png",
     "attachments/Pasted image 20250711150606.png",
     "attachments/Pasted image 20250711150327.png",
