@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPTS/Password Attacks/11. Attacking Active Directory And NTDS.dit.md",
+                "file": "CPTS/Password Attacks/12. Credential Hunting in windows.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11. Attacking Active Directory And NTDS.dit"
+              "title": "12. Credential Hunting in windows"
             }
           },
           {
@@ -226,8 +226,8 @@
   },
   "active": "eae44550f140268e",
   "lastOpenFiles": [
-    "CPTS/Password Attacks/8. Attacking SAM,SYSTEM and SECURITY.md",
     "CPTS/Password Attacks/11. Attacking Active Directory And NTDS.dit.md",
+    "CPTS/Password Attacks/8. Attacking SAM,SYSTEM and SECURITY.md",
     "CPTS/Password Attacks/10. Attacking Windows Credential Manager.md",
     "CPTS/Password Attacks/9. Attacking LSASS.md",
     "CPTS/Password Attacks/14. Credential Hunting In Linux.md",
