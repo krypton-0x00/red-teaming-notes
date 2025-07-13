@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "CPTS/Password Attacks/14. Credential Hunting In Linux.md",
+      "timestamp": 1752387102486
+    },
+    {
       "filepath": "CPTS/Password Attacks/12. Credential Hunting in windows.md",
       "timestamp": 1752385033990
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "CPTS/Password Attacks/10. Attacking Windows Credential Manager.md",
       "timestamp": 1752379891949
-    },
-    {
-      "filepath": "CPTS/Password Attacks/9. Attacking LSASS.md",
-      "timestamp": 1752379891088
     }
   ],
   "bookmarkedFileStore": [],
