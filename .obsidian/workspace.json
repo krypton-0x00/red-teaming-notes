@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPTS/Shells And Payloads/Windows Infiltration.md",
+                "file": "CPTS/Password Attacks/17. Pass The Hash.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Windows Infiltration"
+              "title": "17. Pass The Hash"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quick Cheatsheet.md",
+                "file": "CPTS/Password Attacks/10. Attacking Windows Credential Manager.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quick Cheatsheet"
+              "title": "10. Attacking Windows Credential Manager"
             }
           },
           {
@@ -253,11 +253,12 @@
   },
   "active": "eae44550f140268e",
   "lastOpenFiles": [
-    "CPTS/Password Attacks/17. Pass The Hash.md",
-    "Quick Cheatsheet.md",
     "CPTS/Password Attacks/10. Attacking Windows Credential Manager.md",
-    "CPTS/Password Attacks/2. Hashcat.md",
+    "Quick Cheatsheet.md",
+    "CPTS/Password Attacks/17. Pass The Hash.md",
     "CPTS/Password Attacks/16. Credential Hunting in Network Shares.md",
+    "CPTS/Shells And Payloads/Windows Infiltration.md",
+    "CPTS/Password Attacks/2. Hashcat.md",
     "CPTS/Password Attacks/15. Credential Hunting in Network Traffic.md",
     "CPTS/Password Attacks/14. Credential Hunting In Linux.md",
     "CPTS/Password Attacks/13. Linux Authentication Process.md",
@@ -292,7 +293,6 @@
     "CPTS/Password Attacks/7. Spraying , Stuffing and Defaults.md",
     "CPTS/Misc.md",
     "CPTS/Password Attacks/1.John The Ripper.md",
-    "CPTS/Password Attacks/3. Custom Wordlists.md",
     "Python",
     "Networking/Programming",
     "Networking",
