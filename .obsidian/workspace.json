@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPTS/Password Attacks/17. Pass The Hash.md",
+                "file": "CPTS/Shells And Payloads/Windows Infiltration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "17. Pass The Hash"
+              "title": "Windows Infiltration"
             }
           },
           {
@@ -91,8 +91,7 @@
               "title": "6. Network Services"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -252,7 +251,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "600a9a07abb246de",
+  "active": "eae44550f140268e",
   "lastOpenFiles": [
     "CPTS/Password Attacks/17. Pass The Hash.md",
     "Quick Cheatsheet.md",
