@@ -24,8 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "CPTS/Password Attacks/10. Attacking Windows Credential Manager.md",
+      "timestamp": 1752809255654
+    },
+    {
       "filepath": "CPTS/Password Attacks/17. Pass The Hash.md",
-      "timestamp": 1752808085256
+      "timestamp": 1752808854848
+    },
+    {
+      "filepath": "CPTS/Password Attacks/2. Hashcat.md",
+      "timestamp": 1752808321627
+    },
+    {
+      "filepath": "CPTS/Password Attacks/16. Credential Hunting in Network Shares.md",
+      "timestamp": 1752808314357
+    },
+    {
+      "filepath": "CPTS/Password Attacks/15. Credential Hunting in Network Traffic.md",
+      "timestamp": 1752808310667
     }
   ],
   "bookmarkedFileStore": [],

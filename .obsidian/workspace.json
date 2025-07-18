@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPTS/Password Attacks/8. Attacking SAM,SYSTEM and SECURITY.md",
+                "file": "CPTS/Password Attacks/10. Attacking Windows Credential Manager.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8. Attacking SAM,SYSTEM and SECURITY"
+              "title": "10. Attacking Windows Credential Manager"
             }
           },
           {
@@ -77,7 +77,8 @@
               "title": "6. Network Services"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,8 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5086555480957,
-    "collapsed": true
+    "width": 307.5086555480957
   },
   "right": {
     "id": "2a66004b67fc3a31",
@@ -238,27 +238,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eae44550f140268e",
+  "active": "9db20bcc6fba73a5",
   "lastOpenFiles": [
+    "CPTS/Password Attacks/17. Pass The Hash.md",
+    "CPTS/Password Attacks/10. Attacking Windows Credential Manager.md",
+    "CPTS/Password Attacks/2. Hashcat.md",
+    "CPTS/Password Attacks/16. Credential Hunting in Network Shares.md",
+    "CPTS/Password Attacks/15. Credential Hunting in Network Traffic.md",
+    "CPTS/Password Attacks/14. Credential Hunting In Linux.md",
+    "CPTS/Password Attacks/13. Linux Authentication Process.md",
+    "CPTS/Password Attacks/12. Credential Hunting in windows.md",
+    "CPTS/Password Attacks/8. Attacking SAM,SYSTEM and SECURITY.md",
     "attachments/Pasted image 20250717085600.png",
     "attachments/Pasted image 20250717084003.png",
     "Cheat sheets/Active-Directory-Exploitation-Cheat-Sheet/README.md",
-    "CPTS/Password Attacks/17. Pass The Hash.md",
     "Cheat sheets/Active-Directory-Exploitation-Cheat-Sheet/WalkTheDog.png",
-    "CPTS/Password Attacks/16. Credential Hunting in Network Shares.md",
-    "CPTS/Password Attacks/8. Attacking SAM,SYSTEM and SECURITY.md",
     "evil-winrm.md",
     "CPTS/Password Attacks/6. Network Services.md",
     "Cheat sheets/Quick Linux PrevESC.md",
     "attachments/Pasted image 20250713150447.png",
-    "CPTS/Password Attacks/14. Credential Hunting In Linux.md",
-    "CPTS/Password Attacks/12. Credential Hunting in windows.md",
     "CPTS/Password Attacks/11. Attacking Active Directory And NTDS.dit.md",
-    "CPTS/Password Attacks/10. Attacking Windows Credential Manager.md",
     "CPTS/Password Attacks/9. Attacking LSASS.md",
     "UseFull Stuff/Upgrading TTY.md",
-    "CPTS/Password Attacks/13. Linux Authentication Process.md",
-    "CPTS/Password Attacks/15. Credential Hunting in Network Traffic.md",
     "attachments/Pasted image 20250712115759.png",
     "attachments/Pasted image 20250712075257.png",
     "attachments/Pasted image 20250712074018.png",
@@ -266,7 +267,6 @@
     "attachments/Pasted image 20250711185117.png",
     "attachments/Pasted image 20250711184630.png",
     "attachments/Pasted image 20250711184541.png",
-    "attachments/Pasted image 20250711150618.png",
     "Windows/3. Windows Auth System.md",
     "Active Directory/Untitled.md",
     "Linux/Arch Base.md",
@@ -279,7 +279,6 @@
     "CPTS/Misc.md",
     "CPTS/Password Attacks/1.John The Ripper.md",
     "CPTS/Password Attacks/3. Custom Wordlists.md",
-    "CPTS/Password Attacks/2. Hashcat.md",
     "Python",
     "Networking/Programming",
     "Networking",
