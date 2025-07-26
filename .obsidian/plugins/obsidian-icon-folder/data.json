@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiPassport",
       "BoBxsRocket",
       "SiWireshark",
       "SiKalilinux",
-      "SiLinux",
-      "SiReactivex"
+      "SiLinux"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -96,5 +96,6 @@
   "CPTS/Password Attacks/13. Linux Authentication Process.md": "SiLinux",
   "CPTS/Password Attacks/14. Credential Hunting In Linux.md": "SiKalilinux",
   "CPTS/Password Attacks/15. Credential Hunting in Network Traffic.md": "SiWireshark",
-  "CPTS/Password Attacks/16. Credential Hunting in Network Shares.md": "BoBxsRocket"
+  "CPTS/Password Attacks/16. Credential Hunting in Network Shares.md": "BoBxsRocket",
+  "CPTS/Password Attacks/17. Pass The Hash.md": "SiPassport"
 }
