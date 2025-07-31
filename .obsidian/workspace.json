@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPTS/Password Attacks/17. Pass The Hash.md",
+                "file": "CPTS/SQL Injection Fundamentals/1.Intro to SQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "17. Pass The Hash"
+              "title": "1.Intro to SQL"
             }
           },
           {
@@ -253,11 +253,13 @@
   },
   "active": "eae44550f140268e",
   "lastOpenFiles": [
+    "CPTS/Password Attacks/17. Pass The Hash.md",
+    "CPTS/SQL Injection Fundamentals/1.Intro to SQL.md",
+    "CPTS/SQL Injection Fundamentals",
     "CPTS/Password Attacks/16. Credential Hunting in Network Shares.md",
     "CPTS/Password Attacks/13. Linux Authentication Process.md",
     "CPTS/Password Attacks/14. Credential Hunting In Linux.md",
     "CPTS/Password Attacks/15. Credential Hunting in Network Traffic.md",
-    "CPTS/Password Attacks/17. Pass The Hash.md",
     "CPTS/Password Attacks/18. Pass the Ticket.md",
     "Cheat sheets/Dumping Creds.md",
     "CPTS/Password Attacks/Untitled.md",
@@ -288,7 +290,6 @@
     "Windows/3. Windows Auth System.md",
     "Active Directory/Untitled.md",
     "Linux/Arch Base.md",
-    "Reverse Engineering/Assembly x64/Classes At Assembly Level.md",
     "Reverse Engineering/Reversing/04_lecture.pdf",
     "Reverse Engineering/Reversing/03_lecture.pdf",
     "Reverse Engineering/Reversing/02_lecture.pdf",
@@ -298,7 +299,6 @@
     "Networking",
     "RUST/Unsafe Rust",
     "RUST/Traits",
-    "RUST/TraitObject",
     "CPTS/3.Footprinting/Untitled.canvas"
   ]
 }
