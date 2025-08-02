@@ -13,82 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPTS/SQL Injection Fundamentals/1.Intro to SQL.md",
+                "file": "CPTS/SQL Injection Fundamentals/3. SQLi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.Intro to SQL"
-            }
-          },
-          {
-            "id": "600a9a07abb246de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CPTS/Password Attacks/10. Attacking Windows Credential Manager.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10. Attacking Windows Credential Manager"
-            }
-          },
-          {
-            "id": "9db20bcc6fba73a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CPTS/Password Attacks/10. Attacking Windows Credential Manager.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10. Attacking Windows Credential Manager"
-            }
-          },
-          {
-            "id": "977ddd9b7d1d2f29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UseFull Stuff/Upgrading TTY.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Upgrading TTY"
-            }
-          },
-          {
-            "id": "37130e350c71370e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cheat sheets/Quick Linux PrevESC.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Quick Linux PrevESC"
-            }
-          },
-          {
-            "id": "ff71e54ce1d86b0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CPTS/Password Attacks/6. Network Services.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6. Network Services"
+              "title": "3. SQLi"
             }
           }
         ]
@@ -158,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5086555480957
+    "width": 307.5086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "2a66004b67fc3a31",
@@ -253,8 +184,13 @@
   },
   "active": "eae44550f140268e",
   "lastOpenFiles": [
+    "CPTS/SQL Injection Fundamentals/2. Intro to Injections.md",
+    "CPTS/SQL Injection Fundamentals/3. SQLi.md",
+    "attachments/Pasted image 20250802141737.png",
+    "Cheat sheets/Quick Linux PrevESC.md",
+    "UseFull Stuff/Upgrading TTY.md",
+    "CPTS/SQL Injection Fundamentals/1. Intro to SQL.md",
     "CPTS/Password Attacks/17. Pass The Hash.md",
-    "CPTS/SQL Injection Fundamentals/1.Intro to SQL.md",
     "CPTS/SQL Injection Fundamentals",
     "CPTS/Password Attacks/16. Credential Hunting in Network Shares.md",
     "CPTS/Password Attacks/13. Linux Authentication Process.md",
@@ -276,20 +212,15 @@
     "Cheat sheets/Active-Directory-Exploitation-Cheat-Sheet/WalkTheDog.png",
     "evil-winrm.md",
     "CPTS/Password Attacks/6. Network Services.md",
-    "Cheat sheets/Quick Linux PrevESC.md",
     "attachments/Pasted image 20250713150447.png",
     "CPTS/Password Attacks/11. Attacking Active Directory And NTDS.dit.md",
     "CPTS/Password Attacks/9. Attacking LSASS.md",
-    "UseFull Stuff/Upgrading TTY.md",
     "attachments/Pasted image 20250712115759.png",
     "attachments/Pasted image 20250712075257.png",
     "attachments/Pasted image 20250712074018.png",
     "CPTS/Shells And Payloads/BindShells.md",
     "attachments/Pasted image 20250711185117.png",
-    "attachments/Pasted image 20250711184630.png",
     "Windows/3. Windows Auth System.md",
-    "Active Directory/Untitled.md",
-    "Linux/Arch Base.md",
     "Reverse Engineering/Reversing/04_lecture.pdf",
     "Reverse Engineering/Reversing/03_lecture.pdf",
     "Reverse Engineering/Reversing/02_lecture.pdf",
