@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPTS/SQL Injection Fundamentals/3. SQLi.md",
+                "file": "CPTS/SQL Injection Fundamentals/4. Union Clause.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. SQLi"
+              "title": "4. Union Clause"
             }
           }
         ]
@@ -184,8 +184,9 @@
   },
   "active": "eae44550f140268e",
   "lastOpenFiles": [
-    "CPTS/SQL Injection Fundamentals/2. Intro to Injections.md",
     "CPTS/SQL Injection Fundamentals/3. SQLi.md",
+    "CPTS/SQL Injection Fundamentals/4. Union Clause.md",
+    "CPTS/SQL Injection Fundamentals/2. Intro to Injections.md",
     "attachments/Pasted image 20250802141737.png",
     "Cheat sheets/Quick Linux PrevESC.md",
     "UseFull Stuff/Upgrading TTY.md",
@@ -220,7 +221,6 @@
     "attachments/Pasted image 20250712074018.png",
     "CPTS/Shells And Payloads/BindShells.md",
     "attachments/Pasted image 20250711185117.png",
-    "Windows/3. Windows Auth System.md",
     "Reverse Engineering/Reversing/04_lecture.pdf",
     "Reverse Engineering/Reversing/03_lecture.pdf",
     "Reverse Engineering/Reversing/02_lecture.pdf",

@@ -25,6 +25,10 @@
   "recentFilesStore": [
     {
       "filepath": "CPTS/SQL Injection Fundamentals/Untitled.md",
+      "timestamp": 1754126339731
+    },
+    {
+      "filepath": "CPTS/SQL Injection Fundamentals/3. SQLi.md",
       "timestamp": 1754124594880
     },
     {
@@ -38,10 +42,6 @@
     {
       "filepath": "UseFull Stuff/Upgrading TTY.md",
       "timestamp": 1754124308201
-    },
-    {
-      "filepath": "CPTS/SQL Injection Fundamentals/1. Intro to SQL.md",
-      "timestamp": 1754124284962
     }
   ],
   "bookmarkedFileStore": [],
