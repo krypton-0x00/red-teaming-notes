@@ -42,7 +42,6 @@ There are 8 main general-purpose registers:
 
 ````
 
-### 🛠 Examples
 
 ```asm
 mov RAX, 5           ; RAX = 5

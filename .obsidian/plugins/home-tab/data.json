@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Cheat sheets/NetExec Cheatsheet.md",
-      "timestamp": 1754379419058
+      "filepath": "Reverse Engineering/Assembly x64/BASICS.md",
+      "timestamp": 1754383485901
     },
     {
-      "filepath": "Cheat sheets/MS SQL - CheatSheet.md",
-      "timestamp": 1754379369314
+      "filepath": "CPTS/Common Methods/Waback Machine.md",
+      "timestamp": 1754383349105
     },
     {
-      "filepath": "Cheat sheets/FeroxBuster CheatSheet.md",
-      "timestamp": 1754379361408
+      "filepath": "CPTS/Common Methods/DORKs.md",
+      "timestamp": 1754383345400
     },
     {
-      "filepath": "Cheat sheets/Dumping Creds.md",
-      "timestamp": 1754379360207
+      "filepath": "CPTS/Common Methods/Certificates And Shodan.md",
+      "timestamp": 1754383341282
     },
     {
-      "filepath": "Cheat sheets/common-ports.pdf",
-      "timestamp": 1754379358188
+      "filepath": "CPTS/Common Methods/Banner Grabbing.md",
+      "timestamp": 1754383338350
     }
   ],
   "bookmarkedFileStore": [],

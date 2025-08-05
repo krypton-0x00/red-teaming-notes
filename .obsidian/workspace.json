@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cheat sheets/NetExec Cheatsheet.md",
+                "file": "Reverse Engineering/Assembly x64/BASICS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NetExec Cheatsheet"
+              "title": "BASICS"
             }
           }
         ],
@@ -198,6 +198,12 @@
   },
   "active": "d91e56acfce938e8",
   "lastOpenFiles": [
+    "CPTS/Common Methods/Waback Machine.md",
+    "CPTS/Common Methods/DORKs.md",
+    "CPTS/Common Methods/Certificates And Shodan.md",
+    "CPTS/Common Methods/Banner Grabbing.md",
+    "Cheat sheets/Quick Linux PrevESC.md",
+    "Cheat sheets/NetExec Cheatsheet.md",
     "Cheat sheets/MS SQL - CheatSheet.md",
     "Cheat sheets/FeroxBuster CheatSheet.md",
     "Cheat sheets/Dumping Creds.md",
@@ -211,7 +217,6 @@
     "CPTS/SQL Injection Fundamentals/3. SQLi.md",
     "CPTS/SQL Injection Fundamentals/2. Intro to Injections.md",
     "attachments/Pasted image 20250802141737.png",
-    "Cheat sheets/Quick Linux PrevESC.md",
     "UseFull Stuff/Upgrading TTY.md",
     "CPTS/SQL Injection Fundamentals/1. Intro to SQL.md",
     "CPTS/Password Attacks/17. Pass The Hash.md",
@@ -226,14 +231,9 @@
     "CPTS/Password Attacks/10. Attacking Windows Credential Manager.md",
     "Quick Cheatsheet.md",
     "CPTS/Shells And Payloads/Windows Infiltration.md",
-    "CPTS/Password Attacks/2. Hashcat.md",
-    "CPTS/Password Attacks/12. Credential Hunting in windows.md",
-    "CPTS/Password Attacks/8. Attacking SAM,SYSTEM and SECURITY.md",
     "attachments/Pasted image 20250717085600.png",
     "attachments/Pasted image 20250717084003.png",
-    "Cheat sheets/Active-Directory-Exploitation-Cheat-Sheet/README.md",
     "Cheat sheets/Active-Directory-Exploitation-Cheat-Sheet/WalkTheDog.png",
-    "evil-winrm.md",
     "attachments/Pasted image 20250713150447.png",
     "attachments/Pasted image 20250712115759.png",
     "attachments/Pasted image 20250712075257.png",
