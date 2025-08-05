@@ -24,8 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "CPTS/SQL Injection Fundamentals/4. Union Clause.md",
-      "timestamp": 1754379325136
+      "filepath": "Cheat sheets/NetExec Cheatsheet.md",
+      "timestamp": 1754379419058
+    },
+    {
+      "filepath": "Cheat sheets/MS SQL - CheatSheet.md",
+      "timestamp": 1754379369314
+    },
+    {
+      "filepath": "Cheat sheets/FeroxBuster CheatSheet.md",
+      "timestamp": 1754379361408
+    },
+    {
+      "filepath": "Cheat sheets/Dumping Creds.md",
+      "timestamp": 1754379360207
+    },
+    {
+      "filepath": "Cheat sheets/common-ports.pdf",
+      "timestamp": 1754379358188
     }
   ],
   "bookmarkedFileStore": [],
