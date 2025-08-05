@@ -24,6 +24,18 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "RUST/Basic Stuff/Iterators.md",
+      "timestamp": 1754411825216
+    },
+    {
+      "filepath": "RUST/Basic Stuff/Map filter.md",
+      "timestamp": 1754411823033
+    },
+    {
+      "filepath": "RUST/Basic Stuff/Generics.md",
+      "timestamp": 1754411542960
+    },
+    {
       "filepath": "Current/Resourecs.md",
       "timestamp": 1754411527982
     }

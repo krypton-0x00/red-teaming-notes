@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Current/Resourecs.md",
+                "file": "RUST/Basic Stuff/Iterators.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Resourecs"
+              "title": "Iterators"
             }
           }
         ],
@@ -103,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5086555480957
+    "width": 307.5086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "2a66004b67fc3a31",
@@ -198,8 +199,11 @@
   },
   "active": "d91e56acfce938e8",
   "lastOpenFiles": [
-    "Current/Roadmap.md",
+    "RUST/Basic Stuff/Map filter.md",
+    "RUST/Basic Stuff/Iterators.md",
+    "RUST/Basic Stuff/Generics.md",
     "Current/Resourecs.md",
+    "Current/Roadmap.md",
     "Reverse Engineering/Assembly x64/BASICS.md",
     "CPTS/Common Methods/Waback Machine.md",
     "CPTS/Common Methods/DORKs.md",
@@ -227,9 +231,6 @@
     "CPTS/Password Attacks/16. Credential Hunting in Network Shares.md",
     "CPTS/Password Attacks/13. Linux Authentication Process.md",
     "CPTS/Password Attacks/14. Credential Hunting In Linux.md",
-    "CPTS/Password Attacks/15. Credential Hunting in Network Traffic.md",
-    "CPTS/Password Attacks/18. Pass the Ticket.md",
-    "CPTS/Password Attacks/Untitled.md",
     "attachments/Pasted image 20250723122259.png",
     "attachments/Pasted image 20250717085600.png",
     "attachments/Pasted image 20250717084003.png",
