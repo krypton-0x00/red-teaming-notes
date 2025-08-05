@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reverse Engineering/Assembly x64/BASICS.md",
+                "file": "Current/Resourecs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BASICS"
+              "title": "Resourecs"
             }
           }
         ],
@@ -198,6 +198,9 @@
   },
   "active": "d91e56acfce938e8",
   "lastOpenFiles": [
+    "Current/Roadmap.md",
+    "Current/Resourecs.md",
+    "Reverse Engineering/Assembly x64/BASICS.md",
     "CPTS/Common Methods/Waback Machine.md",
     "CPTS/Common Methods/DORKs.md",
     "CPTS/Common Methods/Certificates And Shodan.md",
@@ -228,9 +231,6 @@
     "CPTS/Password Attacks/18. Pass the Ticket.md",
     "CPTS/Password Attacks/Untitled.md",
     "attachments/Pasted image 20250723122259.png",
-    "CPTS/Password Attacks/10. Attacking Windows Credential Manager.md",
-    "Quick Cheatsheet.md",
-    "CPTS/Shells And Payloads/Windows Infiltration.md",
     "attachments/Pasted image 20250717085600.png",
     "attachments/Pasted image 20250717084003.png",
     "Cheat sheets/Active-Directory-Exploitation-Cheat-Sheet/WalkTheDog.png",
