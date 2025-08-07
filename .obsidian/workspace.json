@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RUST/Basic Stuff/Iterators.md",
+                "file": "RUST/1. LIBS/1. This error.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Iterators"
+              "title": "1. This error"
             }
           }
         ],
@@ -103,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5086555480957
+    "width": 307.5086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "2a66004b67fc3a31",
@@ -198,8 +199,10 @@
   },
   "active": "d91e56acfce938e8",
   "lastOpenFiles": [
-    "RUST/Basic Stuff/Map filter.md",
     "RUST/Basic Stuff/Iterators.md",
+    "RUST/1. LIBS/1. This error.md",
+    "RUST/1. LIBS",
+    "RUST/Basic Stuff/Map filter.md",
     "RUST/Basic Stuff/Generics.md",
     "Current/Resourecs.md",
     "Current/Roadmap.md",
@@ -229,7 +232,6 @@
     "CPTS/SQL Injection Fundamentals",
     "CPTS/Password Attacks/16. Credential Hunting in Network Shares.md",
     "CPTS/Password Attacks/13. Linux Authentication Process.md",
-    "CPTS/Password Attacks/14. Credential Hunting In Linux.md",
     "attachments/Pasted image 20250723122259.png",
     "attachments/Pasted image 20250717085600.png",
     "attachments/Pasted image 20250717084003.png",
@@ -243,7 +245,6 @@
     "Reverse Engineering/Reversing/01_lecture.pdf",
     "Python",
     "Networking/Programming",
-    "Networking",
     "CPTS/3.Footprinting/Untitled.canvas"
   ]
 }
