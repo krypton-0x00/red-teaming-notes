@@ -11,10 +11,14 @@
             "id": "9ed9b6590f20958f",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "RUST/Smart Pointers/Implement Cell<T>.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Implement Cell<T>"
             }
           }
         ]
@@ -179,6 +183,7 @@
   },
   "active": "9ed9b6590f20958f",
   "lastOpenFiles": [
+    "RUST/Smart Pointers/Implement Cell<T>.md",
     "Cheat sheets/MS SQL - CheatSheet.md",
     "RUST/0. Roadmap.md",
     "RUST/1. LIBS/1. This error.md",
@@ -211,7 +216,6 @@
     "CPTS/SQL Injection Fundamentals/1. Intro to SQL.md",
     "CPTS/Password Attacks/17. Pass The Hash.md",
     "CPTS/SQL Injection Fundamentals",
-    "CPTS/Password Attacks/16. Credential Hunting in Network Shares.md",
     "attachments/Pasted image 20250723122259.png",
     "attachments/Pasted image 20250717085600.png",
     "attachments/Pasted image 20250717084003.png",

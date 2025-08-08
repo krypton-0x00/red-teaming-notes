@@ -24,16 +24,8 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Cheat sheets/MS SQL - CheatSheet.md",
-      "timestamp": 1754643809472
-    },
-    {
-      "filepath": "RUST/0. Roadmap.md",
-      "timestamp": 1754643800934
-    },
-    {
-      "filepath": "RUST/1. LIBS/1. This error.md",
-      "timestamp": 1754643796181
+      "filepath": "RUST/Smart Pointers/Implement Cell<T>.md",
+      "timestamp": 1754665386903
     }
   ],
   "bookmarkedFileStore": [],
