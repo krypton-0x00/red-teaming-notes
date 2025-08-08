@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9d1290a5088ef19e",
+        "id": "d709eb5246c3f6bb",
         "type": "tabs",
         "children": [
           {
-            "id": "9294a4b91208cbed",
+            "id": "3dd4e8df6bc43526",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "NOTES/1-reconnaissance-and-enumeration/nmap/scan-network-with-nmap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "scan-network-with-nmap"
             }
           }
         ]
@@ -177,8 +181,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9294a4b91208cbed",
+  "active": "3dd4e8df6bc43526",
   "lastOpenFiles": [
+    "NOTES/1-reconnaissance-and-enumeration/nmap/protocol-scan.md",
+    "NOTES/1-reconnaissance-and-enumeration/nmap/nmap-full-flag.md",
+    "NOTES/1-reconnaissance-and-enumeration/nmap/scan-network-with-nmap.md",
+    "NOTES/1-reconnaissance-and-enumeration/nmap/README.md",
+    "NOTES/1-reconnaissance-and-enumeration/enumeration/enum-checklist.md",
+    "Python/1. Useful libs..md",
+    "Reverse Engineering/Assembly x64/BASICS.md",
+    "UseFull Stuff/SED.md",
+    "UseFull Stuff/Upgrading TTY.md",
+    "UseFull Stuff/Quick CheatSheet.md",
+    "UseFull Stuff/Finding a file.md",
+    "UseFull Stuff/Cracking Linux etc shadow.md",
+    "UseFull Stuff/Check What Service is running on specific port.md",
+    "UseFull Stuff/Payloads/Shells/Shells.md",
+    "Windows/3. Windows Auth System.md",
+    "Quick Cheatsheet.md",
     "RUST/Smart Pointers/Implement Cell<T>.md",
     "Cheat sheets/MS SQL - CheatSheet.md",
     "RUST/0. Roadmap.md",
@@ -189,28 +209,12 @@
     "RUST/Basic Stuff/Generics.md",
     "Current/Resourecs.md",
     "Current/Roadmap.md",
-    "Reverse Engineering/Assembly x64/BASICS.md",
     "CPTS/Common Methods/Waback Machine.md",
-    "CPTS/Common Methods/DORKs.md",
-    "CPTS/Common Methods/Certificates And Shodan.md",
-    "CPTS/Common Methods/Banner Grabbing.md",
-    "Cheat sheets/Quick Linux PrevESC.md",
-    "Cheat sheets/NetExec Cheatsheet.md",
-    "Cheat sheets/FeroxBuster CheatSheet.md",
-    "Cheat sheets/Dumping Creds.md",
     "Cheat sheets/common-ports.pdf",
     "Cheat sheets/AD CHEATSHEET.pdf",
-    "CPTS/Shells And Payloads/Reverse Shells.md",
-    "CPTS/Shells And Payloads/BindShells.md",
-    "CPTS/SQL Injection Fundamentals/4. Union Clause.md",
     "attachments/Pasted image 20250802153651.png",
     "attachments/Pasted image 20250802153236.png",
-    "CPTS/SQL Injection Fundamentals/3. SQLi.md",
-    "CPTS/SQL Injection Fundamentals/2. Intro to Injections.md",
     "attachments/Pasted image 20250802141737.png",
-    "UseFull Stuff/Upgrading TTY.md",
-    "CPTS/SQL Injection Fundamentals/1. Intro to SQL.md",
-    "CPTS/Password Attacks/17. Pass The Hash.md",
     "CPTS/SQL Injection Fundamentals",
     "attachments/Pasted image 20250723122259.png",
     "attachments/Pasted image 20250717085600.png",
