@@ -11,10 +11,14 @@
             "id": "4a2d2797358bda28",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "RUST/1. LIBS/2. Time Crate.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Time Crate"
             }
           }
         ]
@@ -84,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5086555480957
+    "width": 307.5086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "2a66004b67fc3a31",
@@ -179,6 +184,7 @@
   },
   "active": "4a2d2797358bda28",
   "lastOpenFiles": [
+    "RUST/1. LIBS/2. Time Crate.md",
     "RUST/Unsafe Rust/asm! Macro.md",
     "RUST/Unsafe Rust/FFI.md",
     "RUST/Smart Pointers/Recursive types with boxT and Con List.md",
@@ -204,7 +210,6 @@
     "UseFull Stuff/Finding a file.md",
     "UseFull Stuff/Cracking Linux etc shadow.md",
     "UseFull Stuff/Check What Service is running on specific port.md",
-    "UseFull Stuff/Payloads/Shells/Shells.md",
     "RUST/1. LIBS",
     "Cheat sheets/common-ports.pdf",
     "Cheat sheets/AD CHEATSHEET.pdf",
