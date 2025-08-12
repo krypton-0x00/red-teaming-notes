@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RUST/0. Advance/4. RwLock<T>.md",
+                "file": "OSSU/1. Programming In General/1. Floats and Approximation Methods.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. RwLock<T>"
+              "title": "1. Floats and Approximation Methods"
             }
           }
         ]
@@ -183,8 +183,8 @@
   },
   "active": "4a2d2797358bda28",
   "lastOpenFiles": [
-    "RUST/0. Advance/3. MPSC Channels And MUTEX.md",
     "RUST/0. Advance/4. RwLock<T>.md",
+    "RUST/0. Advance/3. MPSC Channels And MUTEX.md",
     "RUST/0. Advance/2. Match Guards , if and While let.md",
     "RUST/0. Advance/1. Rust UFCS.md",
     "OSSU/1. Programming In General/1. Floats and Approximation Methods.md",
