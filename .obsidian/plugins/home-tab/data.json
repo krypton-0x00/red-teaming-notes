@@ -24,12 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "OSSU/1. Programming In General/1. Floats and Approximation Methods.md",
-      "timestamp": 1754966549206
+      "filepath": "Quick Cheatsheet.md",
+      "timestamp": 1767651759346
     },
     {
-      "filepath": "RUST/0. Advance/4. RwLock<T>.md",
-      "timestamp": 1754966533565
+      "filepath": "Windows/3. Windows Auth System.md",
+      "timestamp": 1767651755474
+    },
+    {
+      "filepath": "Windows/Basics.md",
+      "timestamp": 1767651754474
+    },
+    {
+      "filepath": "Windows/NTFS.md",
+      "timestamp": 1767651753699
+    },
+    {
+      "filepath": "Reverse Engineering/Assembly x64/Memory Layout.md",
+      "timestamp": 1767651745183
     }
   ],
   "bookmarkedFileStore": [],
