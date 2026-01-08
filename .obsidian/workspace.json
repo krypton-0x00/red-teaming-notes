@@ -174,8 +174,7 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-trash-explorer:Open trash explorer": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "09a06b772d35cb52",
